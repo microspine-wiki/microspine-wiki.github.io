@@ -91,6 +91,18 @@ To find what an array can hold on a surface, as opposed to what it does on one p
 
 The cloud of points outlines the [safe region](../fundamentals/limit-curve.md#a-measured-limit-curve). Draw two rays from the origin that enclose most of the points limited by slipping: the shallower is a conservative adhesion limit, the steeper an upper bound. Draw an arc for the strength limit in the same way. Expect scatter. It narrows as the number of spines in the specimen grows.
 
+### Choosing the failure point
+
+Step 3 hides a choice. A force trace does not mark which sample is the failure, and different rules give different limit curves. Three rules were compared on the Stanford force stage in 2009 ([Esparza 2009 (slides)][esparza2009]):
+
+| Rule | Takes the sample where | Strength | Weakness |
+|---|---|---|---|
+| Largest adhesion | the pull away from the surface is largest | reports the most adhesion seen in the trial | misses failures that happen by sliding alone |
+| Largest force | the magnitude of the force is largest | catches failures somewhat better | still misses complicated events |
+| Largest power | the force component along the stage's direction of motion is largest; at constant speed, that is where the stage does the most work per second | consistently picks out separation, sliding and the onset of stick-slip | can underestimate adhesion, because the largest adhesion may come before failure |
+
+The slides cite the limit-surface papers of Goyal, Ruina and Papadopoulos as background for the power rule ([Goyal 1989][goyal1989]; [Goyal 1991][goyal1991]). Whichever rule you use, say which when you report a limit curve.
+
 ## Simpler tests
 
 Not every question needs a stage.
@@ -121,3 +133,6 @@ So that results from different groups can be compared, give:
 
 [asbeck2010]: ../reference/bibliography.md#asbeck2010
 [asbeck2012]: ../reference/bibliography.md#asbeck2012
+[esparza2009]: ../reference/bibliography.md#esparza2009
+[goyal1989]: ../reference/bibliography.md#goyal1989
+[goyal1991]: ../reference/bibliography.md#goyal1991

@@ -29,6 +29,14 @@ Three consequences shape every design:
 
 [Asbeck & Cutkosky 2012][asbeck2012] note that the analysis of suspensions carries over unchanged; what is new is the need for the tangential loading force.
 
+## An early gripper (Stanford, 2009)
+
+Before the rock anchors described below, the Stanford laboratory built a small opposed-spine gripper as part of its Z-Man work ([Asbeck 2009 (slides)][bdml2009-opposed]). Two feet, each a group of spine toes in an enclosure, sit at the ends of two legs of balsa and carbon fibre. Where the carbon fibre is not bonded to the balsa it bends, and so acts as a flexure joint; a fabric strip stops it bending the wrong way. A hobby servo, modified to turn continuously, winds up a string that draws the legs in and engages the feet. A preloaded spring retracts them when the string is let out.
+
+![Video of a small gripper on top of a brick: a black central box with two white feet on hinged legs. Hands place it, the feet are drawn toward each other, and the gripper is then lifted together with the brick.](../assets/video/bdml2009-opposed-spine-gripper.mp4)
+
+*The gripper closing on a brick and lifting it. Video: Stanford BDML, March 2009.*
+
 ## Radial grippers for rock
 
 The most developed opposed-spine devices are the microspine grippers built at NASA's Jet Propulsion Laboratory for climbing rock and for anchoring to bodies with almost no gravity.
@@ -75,6 +83,7 @@ These follow from the principle and from the single-array design rules. They are
 - Decide how the gripper lets go. Reversing the closing stroke works for the same reason it does for a foot: the contacts return to the origin of force space.
 
 [asbeck2012]: ../reference/bibliography.md#asbeck2012
+[bdml2009-opposed]: ../reference/bibliography.md#bdml2009-opposed
 [jiang2018]: ../reference/bibliography.md#jiang2018
 [parness2011]: ../reference/bibliography.md#parness2011
 [parness2012]: ../reference/bibliography.md#parness2012

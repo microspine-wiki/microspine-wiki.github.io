@@ -188,7 +188,10 @@ article { max-width: var(--measure); }
 .prose figure { margin: 26px 0 30px; }
 .prose figure img { display: block; width: 100%; padding: 12px; border-radius: 14px; background: var(--band); }
 .prose figure img[src$=".svg"] { padding: 0; border-radius: 14px; background: none; box-shadow: 0 0 0 1px var(--fill); }
-.prose figure.multi { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; align-items: start; }
+.prose figure video { display: block; width: 100%; height: auto; border-radius: 14px; background: #000; }
+.prose figure video.portrait { width: auto; max-width: 100%; height: min(72vh, 600px); margin-inline: auto; }
+.prose figure.multi { display: grid; grid-template-columns: repeat(var(--n, 2), minmax(0, 1fr)); gap: 12px; align-items: start; }
+@media (max-width: 520px) { .prose figure.multi { grid-template-columns: minmax(0, 1fr); } }
 .prose figure.multi figcaption { grid-column: 1 / -1; margin-top: 0; }
 .prose figcaption { margin: 10px 2px 0; font-size: 13.5px; line-height: 1.65; color: var(--ink2); }
 .prose figcaption strong { color: var(--ink); }

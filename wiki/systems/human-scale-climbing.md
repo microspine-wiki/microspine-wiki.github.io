@@ -5,10 +5,10 @@ status: draft
 
 # Human-scale climbing and Z-Man
 
-A person weighs twenty times as much as RiSE. Holding one on a wall needs more than a thousand spines working together, and that is a different engineering problem from a robot foot with thirty. This page collects what has been published about it.
+A person weighs twenty times as much as RiSE. Holding one on a wall needs more than a thousand spines working together, and that is a different engineering problem from a robot foot with thirty. This page gives an overview. Two further pages tell the early history in detail: [Human-scale prototypes, 2007](zman-prototypes-2007.md) and [Spine paddles on a five-storey wall, 2008](discovery-paddles.md).
 
 > [!NOTE]
-> Parts of this history are documented only in laboratory notes and programme reviews that have not been released. This page uses published papers, the thesis, and pages of the old BDML wiki that are openly readable. See [The BDML Z-Man wiki](../about/bdml-archive.md) for what else exists.
+> Besides published papers and the thesis, this history draws on working documents from the laboratory's project wiki, which were not peer reviewed. Material from other organisations in the programme is not used. See [The BDML Z-Man wiki](../about/bdml-archive.md).
 
 ## Z-Man
 
@@ -31,14 +31,9 @@ The human-climbing toe uses the same layout as the RiSE toe, scaled up ([Asbeck 
 
 The harder rubber and stouter flexures suit the higher load per toe. Details are in [Toe designs](../design/toe-designs.md).
 
-## First hang tests, October 2007
+## Prototypes and first hang tests, 2007
 
-A short report on the laboratory's wiki describes the first outdoor test ([Asbeck 2007][bdml-outside-testing]). People did pull-ups on a pebbly wall outside the laboratory, holding two "ice axes", each carrying two patches of spine toes.
-
-- The rig supported a person of about 145 lb (66 kg) for about 30 seconds at a time, and probably could have for longer. People of about 170 lb (77 kg) could not be held.
-- The two types of toe on the two axes did not perform equally. One pair of patches was carrying about two thirds of the weight, roughly 47 lb (21 kg) per patch, against an estimated requirement of 64 lb (29 kg). The other type was reaching its overload stops too early.
-- A shower of small rock fragments came down the wall, so the testers wore goggles. When a patch failed and scraped down the wall, the noise brought people out of the building.
-- The patches and axes were larger and heavier than they needed to be.
+In the summer of 2007 the group tried toes with coil-spring, spring-steel, wire and nitinol-wire flexures alongside cast toes, and mounted patches of them on hand-held "ice axes". In October people hung from a pebbly wall outside the laboratory on two of these axes. The rig held a person of about 66 kg for about 30 seconds at a time, but not people of about 77 kg ([Asbeck 2007][bdml-outside-testing]). Photographs, test numbers and a video are on [Human-scale prototypes, 2007](zman-prototypes-2007.md).
 
 ## A patch of 1200 toes
 
@@ -46,18 +41,16 @@ The thesis shows its author hanging from a single large patch of 1200 Z-Man toes
 
 ## Climbing paddles
 
-For climbing, as opposed to hanging, the toes were mounted in several rows on rigid paddles held in the hands ([Arrays, feet and large patches](../design/arrays-and-patches.md#several-rows-the-alignment-problem)). The thesis records two lessons from their use:
+For climbing, as opposed to hanging, the toes were mounted in several rows on rigid paddles held in the hands ([Arrays, feet and large patches](../design/arrays-and-patches.md#several-rows-the-alignment-problem)). The paddles were built in 2008 for the "Geckoman" episode of the Discovery Channel series *Prototype This!*, first shown on 19 March 2009, and a professional climber used them to climb a five-storey building ([BDML media list][bdml-media]; [Prototype This! 2009][prototype-this]). Their design, how they were loaded and what they held are on [Spine paddles on a five-storey wall, 2008](discovery-paddles.md).
+
+The thesis records two lessons from their use:
 
 - **The lower rows did not pull their weight.** Many fewer spines engaged in the lower rows than in the top row. A rigid plate with rows of spines has to lie flat on the wall, and a plate held in a hand, loaded through a handle, does not. This observation is the starting point of the thesis chapter on patch moments.
 - **The system was heavy.** The thesis concludes that lighter designs and materials are needed, and that suspensions with a lower profile would be easier to build into a paddle.
 
-## On television, 2009
-
-The laboratory's media list records that Aaron Parness of the laboratory helped to create a climbing "gecko suit" for the "Geckoman" episode of the Discovery Channel series *Prototype This!*, first shown on 19 March 2009 ([BDML media list][bdml-media]). In that episode the show's team set out to build two devices with which a person could climb a smooth and a rough vertical surface ([Prototype This! 2009][prototype-this]). What was built, and how well it worked, has not been described in the published literature.
-
 ## What human-scale climbing demands
 
-From the published record, the difficulties in rough order of importance:
+From the record, the difficulties in rough order of importance:
 
 1. **Alignment of a large patch.** See [the patch as a mechanics problem](../design/arrays-and-patches.md#the-patch-as-a-mechanics-problem).
 2. **The direction of the load.** Spines need the load nearly parallel to the wall. A climber's arms pull outward as well as down. [Sizing spine pads for a limbed climber](../climbing/sizing-a-limbed-climber.md) quantifies this for a robot.

@@ -318,3 +318,25 @@ Closely related work on gecko-like adhesives, cited where spine arrays borrow it
 
 - <a id="tmc900bl"></a>**TMC 900BL hook.** Umpqua Feather Merchants, product description of the Tiemco TMC 900BL dry-fly hook. [www.umpqua.com/tmc900bl](https://www.umpqua.com/tmc900bl/)  
   Barbless, forged, black, 1X fine wire, sizes 10 to 16.
+
+## Unpublished laboratory documents
+
+Working documents and videos from the Stanford laboratory's project wikis, written or recorded at Stanford. They were not peer reviewed: treat their numbers as single observations. See [The BDML Z-Man wiki](../about/bdml-archive.md).
+
+- <a id="bdml2007-prototypes"></a>**BDML 2007 (slides).** Stanford BDML, *Stanford prototyping, 8/8/07*, *Wire toes prototyping* and *Toes from nitinol array*, slides, August and September 2007. Unpublished; from the laboratory's Z-Man project wiki.  
+  Photographs and short test results for the toes tried for human climbing in the summer of 2007: spring, spring-steel, embedded-wire and nitinol-wire toes, and the hand-held "ice axe".
+
+- <a id="bdml2007-toe-design"></a>**Asbeck 2007 (slides).** Alan Asbeck, *Spiny toe design principles using WorkingModel*, slides, Stanford BDML, 26 July 2007. Unpublished; from the laboratory's Z-Man project wiki.  
+  Rules of thumb for spiny toe linkages from two-dimensional rigid-body simulations: load along the wall before swinging to the working angle, prefer engaging to disengaging rotations of the spine, and use remote-centre compliance.
+
+- <a id="bdml2008-discovery"></a>**BDML 2008 (internal review).** Stanford BDML, *Internal review of Discovery Channel human climbing project*, report, about 2008. Unpublished; from the laboratory's Z-Man project wiki.  
+  The laboratory's own account of the climbing paddles it built for a television programme: design of the spine paddles, how they were loaded through the feet, what one paddle held on five surfaces, the climb, and lessons for later designs.
+
+- <a id="bdml2009-hook-videos"></a>**BDML 2009 (videos).** Stanford BDML, two videos of ways to trim fishhooks for spine toes, early 2009. Unpublished; from the laboratory's Z-Man project wiki.  
+  Two techniques for cutting the hooks used as spines, filmed at Stanford.
+
+- <a id="bdml2009-opposed"></a>**Asbeck 2009 (slides).** Alan Asbeck, *Spiny gripper design*, slides and video, Stanford BDML, 4 March 2009. Unpublished; from the laboratory's Z-Man project wiki.  
+  Design of an early opposed-spine gripper: two spiny feet on a balsa and carbon-fibre linkage, drawn together by a servo and string and retracted by a spring.
+
+- <a id="esparza2009"></a>**Esparza 2009 (slides).** Noe Esparza, *Z-Man telecon*, slides, Stanford BDML, 9 April 2009. Unpublished; from the laboratory's Z-Man project wiki.  
+  Includes a comparison of three ways to pick the failure point of each trial when mapping a limit surface on a force stage: largest adhesion, largest force magnitude, and largest power.

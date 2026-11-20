@@ -160,10 +160,12 @@ function build({liveReload = false} = {}) {
   }
   const creditsPage = pages.get('about/credits.md');
   const credits = creditsPage ? creditsPage.body : '';
+  const credited = rel => credits.includes(path.posix.basename(rel));
   for (const rel of files.keys()) {
     if (rel.endsWith('.md')) continue;
     const thirdParty = RASTER.test(rel) || !rel.startsWith('assets/figures/');
-    if (thirdParty && !/\.(py|csv|json|txt)$/i.test(rel) && !credits.includes(path.posix.basename(rel))) {
+    const posterOf = rel.endsWith('.poster.jpg') ? [...files.keys()].find(other => /\.(mp4|webm)$/i.test(other) && other.replace(/\.(mp4|webm)$/i, '.poster.jpg') === rel) : null;
+    if (thirdParty && !/\.(py|csv|json|txt)$/i.test(rel) && !credited(rel) && !(posterOf && credited(posterOf))) {
       errors.push(`wiki/${rel}: media that is not an original figure must be listed in about/credits.md with its source and licence`);
     }
     if (!usedAssets.has(rel)) warnings.push(`wiki/${rel}: file is not used by any page`);

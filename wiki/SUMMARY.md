@@ -31,6 +31,8 @@
 - [Spinybot](systems/spinybot.md)
 - [RiSE](systems/rise.md)
 - [Human-scale climbing and Z-Man](systems/human-scale-climbing.md)
+- [Human-scale prototypes, 2007](systems/zman-prototypes-2007.md)
+- [Spine paddles on a five-storey wall, 2008](systems/discovery-paddles.md)
 - [Perching aircraft](systems/perching.md)
 - [Grippers, rock climbers and space](systems/grippers-and-space.md)
 
@@ -43,6 +45,7 @@
 
 - [Notation and glossary](reference/notation-and-glossary.md)
 - [Open questions](reference/open-questions.md)
+- [Videos](reference/videos.md)
 - [Bibliography](reference/bibliography.md)
 
 ## About

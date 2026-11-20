@@ -59,6 +59,8 @@ What has climbed on spines, and what each machine taught.
 - [Spinybot](systems/spinybot.md)
 - [RiSE](systems/rise.md)
 - [Human-scale climbing and Z-Man](systems/human-scale-climbing.md)
+- [Human-scale prototypes, 2007](systems/zman-prototypes-2007.md)
+- [Spine paddles on a five-storey wall, 2008](systems/discovery-paddles.md)
 - [Perching aircraft](systems/perching.md)
 - [Grippers, rock climbers and space](systems/grippers-and-space.md)
 
@@ -71,10 +73,11 @@ What a four-limbed climber asks of its pads.
 
 ### Reference
 
-Symbols, gaps in the record, and every source.
+Symbols, gaps in the record, videos, and every source.
 
 - [Notation and glossary](reference/notation-and-glossary.md)
 - [Open questions](reference/open-questions.md)
+- [Videos](reference/videos.md)
 - [Bibliography](reference/bibliography.md)
 
 <!-- /cards -->
@@ -86,9 +89,15 @@ Symbols, gaps in the record, and every source.
 
 Both are also available as Python scripts in the `tools/` folder of the repository.
 
+## Watch
+
+![Video of a climber going up a five-storey concrete-block building on two spine paddles, one paddle at a time, sped up four times.](assets/video/bdml2008-building-climb-4x.mp4)
+
+*In 2008 a professional climber went up a five-storey building on two hand-held paddles of spines, loading them through webbing to the feet. Sped up four times. The story is in [Spine paddles on a five-storey wall, 2008](systems/discovery-paddles.md); more in [Videos](reference/videos.md).*
+
 ## About this wiki
 
 > [!NOTE]
 > The wiki is young and maintained by its community. Most pages are drafts: written from the published sources and checked by their author, but not yet reviewed by a second person. Check numbers against the cited papers before you rely on them, and [report anything that is wrong](about/contributing.md).
 
-It is built on published papers, Alan Asbeck's openly licensed doctoral thesis, and the openly readable pages of the Stanford laboratory's old project wiki ([About this wiki](about/about.md); [The BDML Z-Man wiki](about/bdml-archive.md)). It is independent of the laboratories and sponsors whose work it describes.
+It is built on published papers, Alan Asbeck's openly licensed doctoral thesis, and pages, working documents and videos from the Stanford laboratory's old project wikis ([About this wiki](about/about.md); [The BDML Z-Man wiki](about/bdml-archive.md)). It is independent of the laboratories and sponsors whose work it describes.

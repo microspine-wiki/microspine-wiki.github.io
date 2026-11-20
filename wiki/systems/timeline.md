@@ -5,16 +5,18 @@ status: draft
 
 # Timeline of spine climbers
 
-The table lists systems that attach to rough surfaces with small spines, hooks or claws and for which a paper is listed in the [bibliography](../reference/bibliography.md). It is a map, not a ranking, and it is certainly incomplete: please [add what is missing](../about/contributing.md).
+The table lists systems that attach to rough surfaces with small spines, hooks or claws and for which a source is listed in the [bibliography](../reference/bibliography.md). It is a map, not a ranking, and it is certainly incomplete: please [add what is missing](../about/contributing.md).
 
 | Year | System | What it showed | Source |
 |---|---|---|---|
 | 2005 | **Spinybot** (Stanford) | A 0.4 kg robot climbs concrete, brick and stucco on arrays of compliant microspines and holds without power | [Asbeck 2005][asbeck2005]; [Kim 2005][kim2005] |
 | 2006–08 | **RiSE** | A 3.8 kg hexapod walks on the ground and climbs brick, stucco and crushed-stone walls with rows of spine toes | [Spenko 2008][spenko2008] |
-| 2007 | Human-scale patches (Stanford) | A person hangs from a wall on patches of spine toes | [Asbeck 2007][bdml-outside-testing] |
+| 2007 | **Human-scale prototypes** (Stanford) | New toes for human loads; a person hangs from a wall on patches of spine toes | [BDML 2007 (slides)][bdml2007-prototypes]; [Asbeck 2007][bdml-outside-testing] |
 | 2008 | **Screenbot** (Case Western) | A 126 g robot walks inverted on mesh by pulling opposed spined legs toward each other | [Wile 2008][wile2008] |
+| 2008 | **Spine paddles** (Stanford) | A professional climber climbs a five-storey building on two hand-held paddles of about 1350 toes each | [BDML 2008 (internal review)][bdml2008-discovery] |
 | 2009 | **Mini-Whegs** with spines (Case Western) | Spines on simple rotating wheel-legs climb steep concrete | [Daltorio 2009][daltorio2009] |
 | 2009 | **RiSE V3** | A 5.4 kg quadruped climbs a wooden pole at 21 cm/s with claws | [Haynes 2009][haynes2009] |
+| 2009 | Opposed-spine gripper (Stanford) | A servo draws two spiny feet together to grip and lift a brick | [Asbeck 2009 (slides)][bdml2009-opposed] |
 | 2009–11 | **Perching aircraft** (Stanford) | A small fixed-wing aircraft lands on walls with spines and takes off again | [Lussier Desbiens & Cutkosky 2010][desbiens2010]; [Lussier Desbiens 2011a][desbiens2011] |
 | 2010 | Design theory | Limit curves, suspension requirements and the stalk model | [Asbeck 2010][asbeck2010]; [Asbeck & Cutkosky 2012][asbeck2012] |
 | 2011 | **CLASH** (Berkeley) | A 15 g hexapod climbs loose vertical cloth with spines that engage and release passively | [Birkmeyer 2011][birkmeyer2011] |
@@ -52,6 +54,9 @@ The table lists systems that attach to rough surfaces with small spines, hooks o
 [kim2005]: ../reference/bibliography.md#kim2005
 [spenko2008]: ../reference/bibliography.md#spenko2008
 [bdml-outside-testing]: ../reference/bibliography.md#bdml-outside-testing
+[bdml2007-prototypes]: ../reference/bibliography.md#bdml2007-prototypes
+[bdml2008-discovery]: ../reference/bibliography.md#bdml2008-discovery
+[bdml2009-opposed]: ../reference/bibliography.md#bdml2009-opposed
 [wile2008]: ../reference/bibliography.md#wile2008
 [daltorio2009]: ../reference/bibliography.md#daltorio2009
 [haynes2009]: ../reference/bibliography.md#haynes2009

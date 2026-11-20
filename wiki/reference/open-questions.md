@@ -46,4 +46,4 @@ This page lists gaps: questions that the sources behind this wiki raise and do n
 
 ## History
 
-- **The undocumented middle.** Much of what was learned about human-scale spine climbing between 2007 and 2010 is recorded only in unreleased notes ([The BDML Z-Man wiki](../about/bdml-archive.md)). If you took part and can share what you learned, this wiki would be a good home for it.
+- **After 2009.** The laboratory's working notes take the human-scale story to about 2009 ([Human-scale prototypes, 2007](../systems/zman-prototypes-2007.md); [Spine paddles on a five-storey wall, 2008](../systems/discovery-paddles.md)). How the paddles and patches developed after that, and how they performed from one wall to another, is not recorded in anything this wiki can cite. If you took part and can share what you learned, this wiki would be a good home for it.

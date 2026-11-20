@@ -29,10 +29,10 @@ Every factual statement should be traceable to something you can read yourself:
 
 - **Published papers**, cited by author and year and listed with DOIs in the [bibliography](../reference/bibliography.md).
 - **Alan Asbeck's doctoral thesis** ([Asbeck 2010](../reference/bibliography.md#asbeck2010)), which is the fullest account of the subject and is openly available. Where the wiki follows it closely, the section is given.
-- **Openly readable pages of the old BDML wiki**, for a few points of history.
+- **Pages, working documents and videos from the laboratory's old project wikis**, for history and practical detail. Everything used from them was made at Stanford. They were not peer reviewed, and pages that use them say so.
 - **Manufacturers' data sheets**, for material properties.
 
-Material that was never released, such as programme reviews, internal reports and unpublished drafts, is not used. [The BDML Z-Man wiki](bdml-archive.md) explains where that line is drawn and what falls on the other side of it.
+Material from other organisations that took part in the same programme is not used. [The BDML Z-Man wiki](bdml-archive.md) lists what this wiki takes from the archive and what it leaves out.
 
 Some pages go beyond their sources: a worked example, a rule of thumb, a comparison between two papers, the sizing analysis in [Sizing spine pads for a limbed climber](../climbing/sizing-a-limbed-climber.md). These are marked as the wiki's own reading, and they are the first places to look for mistakes.
 

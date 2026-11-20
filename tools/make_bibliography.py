@@ -34,6 +34,8 @@ SECTIONS = [
     ("biology", "Claws and spines in animals", ""),
     ("review", "Reviews", ""),
     ("web", "Web pages, patents and data sheets", ""),
+    ("archive", "Unpublished laboratory documents",
+     "Working documents and videos from the Stanford laboratory's project wikis, written or recorded at Stanford. They were not peer reviewed: treat their numbers as single observations. See [The BDML Z-Man wiki](../about/bdml-archive.md)."),
 ]
 
 HEADER = """---
@@ -76,6 +78,8 @@ def label(entry):
 
 def citation(entry):
     if "citation" in entry:
+        if not entry.get("url"):
+            return entry["citation"]
         shown = entry["url"].split("//", 1)[1].rstrip("/")
         return f"{entry['citation']} [{shown}]({entry['url']})"
     venue = f"*{entry['venue']}*"

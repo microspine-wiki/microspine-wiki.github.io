@@ -1,5 +1,5 @@
 ---
-description: Where every figure, library and font on this site comes from, and the terms on which it is used.
+description: Where every figure, photograph, video, library and font on this site comes from, and the terms on which it is used.
 status: draft
 ---
 
@@ -39,6 +39,34 @@ So these figures:
 
 The descriptions follow the thesis's list of figures.
 
+## From the laboratory's project wikis
+
+These photographs and videos come from the Stanford Biomimetics and Dexterous Manipulation Laboratory's project wikis, where they were posted by the people who made them. All were made at Stanford. They are reproduced to document the history described on this site. The photographs are resized and the videos re-encoded for the web, and the long video of the climb is sped up four times; nothing else is changed.
+
+Their rights remain with their authors and Stanford University. They are **not** covered by this wiki's CC BY licence. If you hold rights in any of them and want it credited differently or removed, open an issue in the project's repository.
+
+| File | What it shows | Source | Used on |
+|---|---|---|---|
+| `bdml2007-spring-toe.jpg` | A toe with coil-spring flexures | Prototyping slides, August 2007 ([BDML 2007 (slides)][bdml2007-prototypes]) | [Human-scale prototypes, 2007](../systems/zman-prototypes-2007.md) |
+| `bdml2007-cast-toe.jpg` | A cast two-material toe | Prototyping slides, August 2007 | same |
+| `bdml2007-wire-toe-group.jpg` | A group of wire-flexure toes | Prototyping slides, August 2007 | same |
+| `bdml2007-ice-axe-handle.jpg` | A prototype "ice axe" | Prototyping slides, August 2007 | same |
+| `bdml2007-wire-toes.jpg` | Toes with embedded wire flexures | Wire-toe slides, August 2007 | same |
+| `bdml2007-nitinol-toe.jpg` | A toe with nitinol-wire flexures | Nitinol-toe slides, 2007 | same |
+| `bdml2007-ice-axes-on-wall.jpg` | The two ice axes on the wall | Outdoor test report, 1 October 2007 ([Asbeck 2007][bdml-outside-testing]) | same |
+| `bdml2007-hang-test.mp4` | A hang test | Outdoor test report, October 2007 | same; [Videos](../reference/videos.md) |
+| `bdml2008-spine-paddle.jpg` | A spine paddle | Internal review of the television project ([BDML 2008 (internal review)][bdml2008-discovery]) | [Spine paddles on a five-storey wall, 2008](../systems/discovery-paddles.md) |
+| `bdml2008-climb-midway.jpg` | The climb, partway up | same review | same |
+| `bdml2008-climb-near-top.jpg` | The climb, near the top | same review | same |
+| `bdml2008-wall-with-hand.jpg` | The wall, with a hand for scale | same review | same |
+| `bdml2008-building-climb-4x.mp4` | The climb, sped up four times | Z-Man project wiki, 2008 | same; [Videos](../reference/videos.md) |
+| `bdml2008-paddle-trials.mp4` | Others trying the paddles | Z-Man project wiki, 2008 | same; [Videos](../reference/videos.md) |
+| `bdml2009-trimming-hooks-pliers.mp4` | Cutting hooks with pliers | Z-Man project wiki, 2009 ([BDML 2009 (videos)][bdml2009-hook-videos]) | [Building spine toes](../fabrication/building-toes.md#trimming-the-hooks); [Videos](../reference/videos.md) |
+| `bdml2009-trimming-hooks-in-row.mp4` | Trimming hooks with side cutters | Z-Man project wiki, 2009 | same |
+| `bdml2009-opposed-spine-gripper.mp4` | An opposed-spine gripper lifting a brick | Z-Man project wiki, March 2009 ([Asbeck 2009 (slides)][bdml2009-opposed]) | [Opposed spines and grippers](../design/opposed-spines.md#an-early-gripper-stanford-2009); [Videos](../reference/videos.md) |
+
+Each video's poster image, the file of the same name ending in `.poster.jpg`, is a still from that video.
+
 ## Libraries
 
 The site is built with two libraries, copied unchanged into `vendor/` together with their licences.
@@ -61,3 +89,9 @@ Names of products, materials and companies, such as Smooth-On, Task, VytaFlex an
 ## Corrections and removal
 
 If you hold rights in something shown here and believe it is used wrongly, or want it credited differently or removed, open an issue in the project's repository. Requests are handled promptly.
+
+[bdml2007-prototypes]: ../reference/bibliography.md#bdml2007-prototypes
+[bdml-outside-testing]: ../reference/bibliography.md#bdml-outside-testing
+[bdml2008-discovery]: ../reference/bibliography.md#bdml2008-discovery
+[bdml2009-hook-videos]: ../reference/bibliography.md#bdml2009-hook-videos
+[bdml2009-opposed]: ../reference/bibliography.md#bdml2009-opposed

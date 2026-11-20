@@ -74,9 +74,21 @@ What to look for in a hook:
 
 - **Hardened steel.** The thesis credits these hooks' performance to their tip geometry and to hardened steel, both of which resist bending.
 - **A slender, evenly tapered point.** The tip radius decides which surfaces you can climb.
-- **Enough shank to embed.** The shank is cast into the hard body. The hooks are trimmed first; the old lab wiki even kept videos of how to clip them quickly.
+- **Enough shank to embed.** The shank is cast into the hard body. The hooks are cut to length first ([below](#trimming-the-hooks)).
 
 Tips wear from about 10 µm when new to 25–35 µm with heavy use, and can bend ([Toe designs](../design/toe-designs.md#the-spine-itself)). Design feet so that toes, or whole rows, can be replaced.
+
+### Trimming the hooks
+
+With hundreds of toes to a foot, cutting hooks is a real share of the work. The laboratory filmed two ways of doing it in 2009 ([BDML 2009 (videos)][bdml2009-hook-videos]).
+
+![Video of a pair of pliers lying on a bench. A hand places a fishhook in the jaws and presses the handles closed with the palm; cut hooks collect on the bench.](../assets/video/bdml2009-trimming-hooks-pliers.mp4)
+
+*Cutting hooks one at a time in pliers braced on the bench and closed with the palm. Video: Stanford BDML, 2009.*
+
+![Video of hands holding a stack of white plastic pieces with a line of black hooks along one edge, snipping along the edge with small side cutters.](../assets/video/bdml2009-trimming-hooks-in-row.mp4)
+
+*A faster technique: snipping hooks in quick succession with side cutters while they are held in a stack. Video: Stanford BDML, 2009.*
 
 ## Assembly
 
@@ -114,3 +126,4 @@ Liquid urethanes contain isocyanates. Follow the supplier's safety data sheet: v
 [smoothon-task9]: ../reference/bibliography.md#smoothon-task9
 [smoothon-vytaflex]: ../reference/bibliography.md#smoothon-vytaflex
 [tmc900bl]: ../reference/bibliography.md#tmc900bl
+[bdml2009-hook-videos]: ../reference/bibliography.md#bdml2009-hook-videos
