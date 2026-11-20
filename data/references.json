@@ -1,0 +1,2568 @@
+[
+  {
+    "key": "asbeck2005",
+    "authors": [
+      "Asbeck, Alan T.",
+      "Kim, Sangbae",
+      "Cutkosky, Mark R.",
+      "Provancher, William R.",
+      "Lanzetta, Michele"
+    ],
+    "year": 2005,
+    "title": "Scaling hard vertical surfaces with compliant microspine arrays",
+    "venue": "Robotics: Science and Systems I (Proceedings of Robotics: Science and Systems 2005, Cambridge, MA)",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "doi": "10.15607/rss.2005.i.026",
+    "url": "https://www.roboticsproceedings.org/rss01/p26.html",
+    "oa_url": "https://www.roboticsproceedings.org/rss01/p26.pdf",
+    "type": "conference",
+    "category": "stanford-spines",
+    "summary": "Introduces arrays of microspines on compliant, multi-link toe suspensions that let a robot climb concrete, stucco, brick and masonry walls without suction or adhesives. Discusses how spine size should scale with surface roughness and how the suspension should distribute tensile and shear loads among many spines.",
+    "key_numbers": [],
+    "verification": "Crossref record https://api.crossref.org/works/10.15607/rss.2005.i.026 ; author order and abstract confirmed on the open proceedings page https://www.roboticsproceedings.org/rss01/p26.html (lists 'Alan T. Asbeck, Sangbae Kim, Mark R. Cutkosky, William R. Provancher, Michele Lanzetta')."
+  },
+  {
+    "key": "asbeck2006",
+    "authors": [
+      "Asbeck, Alan T.",
+      "Kim, Sangbae",
+      "Cutkosky, M. R.",
+      "Provancher, William R.",
+      "Lanzetta, Michele"
+    ],
+    "year": 2006,
+    "title": "Scaling Hard Vertical Surfaces with Compliant Microspine Arrays",
+    "venue": "The International Journal of Robotics Research",
+    "volume": "25",
+    "issue": "12",
+    "pages": "1165-1179",
+    "doi": "10.1177/0278364906072511",
+    "url": "https://doi.org/10.1177/0278364906072511",
+    "oa_url": "https://mech.utah.edu/files/2012/01/asbeck2006-IJRR-Scaling_Hard_Vertical_Surfaces_with_Compliant_Microspine_Arrays.pdf",
+    "type": "journal",
+    "category": "stanford-spines",
+    "summary": "Journal version of the microspine approach: discusses spine scaling versus surface roughness, models the spine/surface interaction, and details the toe-suspension properties needed for each spine to find a usable asperity and for many spines to share load. Demonstrates the principles on SpinybotII and reports how toe parameters scale with robot mass, including use on the larger RiSE robot.",
+    "key_numbers": [
+      {
+        "claim": "SpinybotII payload and power while clinging (qualitative)",
+        "quote": "can scale a wide range of flat exterior walls, carry a payload equal to its own weight, and cling without consuming power"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1177/0278364906072511 (volume 25, issue 12, pages 1165-1179, December 2006); abstract from Crossref."
+  },
+  {
+    "key": "kim2005",
+    "authors": [
+      "Kim, Sangbae",
+      "Asbeck, Alan T.",
+      "Cutkosky, Mark R.",
+      "Provancher, William R."
+    ],
+    "year": 2005,
+    "title": "SpinybotII: climbing hard walls with compliant microspines",
+    "venue": "ICAR '05: Proceedings of the 12th International Conference on Advanced Robotics (Seattle, WA)",
+    "volume": null,
+    "issue": null,
+    "pages": "601-606",
+    "doi": "10.1109/icar.2005.1507470",
+    "url": "https://doi.org/10.1109/icar.2005.1507470",
+    "oa_url": "http://bdml.stanford.edu/twiki/pub/Rise/RisePublications/IEEE_ICARv11.pdf",
+    "type": "conference",
+    "category": "stanford-spines",
+    "summary": "Presents SpinybotII, a climbing robot that scales flat, hard vertical surfaces (concrete, brick, stucco, masonry) using arrays of miniature spines that catch on surface asperities, carrying a payload equal to its own weight and clinging without consuming power. Covers spine/surface interaction analysis and compliant suspension design.",
+    "key_numbers": [
+      {
+        "claim": "SpinybotII mass (Table II of author preprint)",
+        "quote": "Mass 0.4 Kg"
+      },
+      {
+        "claim": "SpinybotII maximum payload (Table II of author preprint)",
+        "quote": "Max payload 0.4 Kg"
+      },
+      {
+        "claim": "SpinybotII climbing speed (Table II of author preprint)",
+        "quote": "Climbing speed 2.3 cm/s"
+      },
+      {
+        "claim": "Toes per foot (author preprint, Section III)",
+        "quote": "Each foot of SpinybotII contains a set of 10 identical planar mechanisms, or “toes.”"
+      },
+      {
+        "claim": "Toe materials (author preprint, Section III)",
+        "quote": "the white and grey materials are hard and soft urethanes, of 75 Shore-D and 20 Shore-A hardness, respectively (Innovative Polymers Inc.)"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/icar.2005.1507470 (pages 601-606); abstract from OpenAlex; author names and specification table read from the author-hosted preprint http://bdml.stanford.edu/twiki/pub/Rise/RisePublications/IEEE_ICARv11.pdf (first page: 'Sangbae KIM, Alan T. ASBECK, Mark R. CUTKOSKY and William R. PROVANCHER')."
+  },
+  {
+    "key": "asbeck2006video",
+    "authors": [
+      "Asbeck, Alan T.",
+      "Kim, Sangbae",
+      "McClung, Arthur",
+      "Parness, Aaron",
+      "Cutkosky, Mark R."
+    ],
+    "year": 2006,
+    "title": "Climbing Walls with Microspines",
+    "venue": "IEEE International Conference on Robotics and Automation (ICRA 2006), Orlando, FL — short paper accompanying a video submission",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "doi": null,
+    "url": "http://bdml.stanford.edu/twiki/pub/Rise/RisePublications/ICRA06_spines.pdf",
+    "oa_url": "http://bdml.stanford.edu/twiki/pub/Rise/RisePublications/ICRA06_spines.pdf",
+    "type": "conference",
+    "category": "stanford-spines",
+    "summary": "Short paper (with accompanying video) summarising the design principles of climbing with microspines on Spinybot and their adaptation to the larger, heavier RiSE platform, including how toe compliances should scale with robot mass, spine tip radius and number of toes.",
+    "key_numbers": [
+      {
+        "claim": "Spinybot mass",
+        "quote": "The above principles have been demonstrated in a 400g climbing robot, Spinybot"
+      },
+      {
+        "claim": "Spinybot toes and spines per foot",
+        "quote": "Spinybot’s feet each consist of ten planar toe mechanisms with two spines per toe."
+      },
+      {
+        "claim": "Spine dimensions",
+        "quote": "Each spine has a shaft diameter of 200µm and a tip radius of 12-25µm."
+      },
+      {
+        "claim": "Force per spine/asperity contact",
+        "quote": "The maximum force per spine/asperity contact is 1-2 N"
+      },
+      {
+        "claim": "RiSE platform mass as reported in this 2006 short paper",
+        "quote": "The RiSE platform, shown in Fig. 2a, is a 3.2 Kg, 6-legged, 2-DOF/leg robot"
+      }
+    ],
+    "verification": "Not indexed in Crossref (no DOI found by title, author or container queries). Existence, title, authors and venue confirmed from the authors' lab publication list http://bdml.stanford.edu/twiki/bin/view/Main/PublicationList ('Asbeck, A.T., Kim, S., McClung, A., Parness, A., and Cutkosky, M.R., Climbing Walls with Microspines, IEEE ICRA, May 2006, Orlando, Fla. (Short paper ...)' and 'video (winner of IEEE ICRA Best Video Award) that goes with the paper') and from the lab-hosted PDF http://bdml.stanford.edu/twiki/pub/Rise/RisePublications/ICRA06_spines.pdf, whose text was read. Page numbers and DOI could not be confirmed and are left null.",
+    "label": "Asbeck 2006 (video)"
+  },
+  {
+    "key": "spenko2008",
+    "authors": [
+      "Spenko, M. J.",
+      "Haynes, G. C.",
+      "Saunders, J. A.",
+      "Cutkosky, M. R.",
+      "Rizzi, A. A.",
+      "Full, R. J.",
+      "Koditschek, D. E."
+    ],
+    "year": 2008,
+    "title": "Biologically inspired climbing with a hexapedal robot",
+    "venue": "Journal of Field Robotics",
+    "volume": "25",
+    "issue": "4-5",
+    "pages": "223-242",
+    "doi": "10.1002/rob.20238",
+    "url": "https://doi.org/10.1002/rob.20238",
+    "oa_url": "http://bdml.stanford.edu/twiki/pub/Rise/RisePublications/rise-jfr-2007-3.pdf",
+    "type": "journal",
+    "category": "limbed-climbers",
+    "summary": "Systems-level description of the hexapedal RiSE robot, which locomotes on the ground and climbs vertical building surfaces such as brick, stucco and crushed stone without suction, magnets or adhesives. Covers body morphology, hierarchical compliance in legs and feet, and the sensing and control that make climbing reliable.",
+    "key_numbers": [
+      {
+        "claim": "Climbing speed (abstract)",
+        "quote": "at speeds up to 4 cm/s"
+      },
+      {
+        "claim": "RiSE mass and payload (author preprint, Section 2.4)",
+        "quote": "The platform currently weighs just over 3.8 kg and has a payload capacity of 1.5 kg."
+      },
+      {
+        "claim": "RiSE vs Spinybot weight (author preprint)",
+        "quote": "RiSE’s considerably greater weight (3.8 kg versus 0.4 kg)"
+      },
+      {
+        "claim": "Toes per foot (author preprint, Section 3.1)",
+        "quote": "Each foot is comprised of 25-50 flat toes arranged in a row."
+      },
+      {
+        "claim": "Hook used for 10th-generation toes (author preprint, Section 3.1)",
+        "quote": "spines that are made from fishhooks (Tiemco TMC 100BL) with a tip radius of approximately 25 µm"
+      },
+      {
+        "claim": "Toe materials (author preprint, Section 3.1)",
+        "quote": "Each toe is a multi-bar elastic linkage composed of two grades of polyurethane (Shore 20A and Shore 72DC) and is manufactured using Shape Deposition Manufacturing (SDM)"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1002/rob.20238 (volume 25, issue 4-5, pages 223-242); abstract from Crossref; mass and toe details read from the author-hosted preprint http://bdml.stanford.edu/twiki/pub/Rise/RisePublications/rise-jfr-2007-3.pdf (marked 'to appear in: Journal of Field Robotics, 2008')."
+  },
+  {
+    "key": "asbeck2010",
+    "authors": [
+      "Asbeck, Alan Thomas"
+    ],
+    "year": 2010,
+    "title": "Compliant directional suspensions for climbing with spines and adhesives",
+    "venue": "Ph.D. thesis, Stanford University (submitted to the Department of Electrical Engineering)",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "doi": null,
+    "url": "https://purl.stanford.edu/xt008ys4403",
+    "oa_url": "https://purl.stanford.edu/xt008ys4403",
+    "type": "thesis",
+    "category": "stanford-spines",
+    "summary": "Doctoral thesis on synthetic microspine arrays for robot and human climbing: surface properties suited to spines, a spine/surface interaction model, the suspension properties needed for conformation, load sharing, engagement and disengagement, measured performance of built suspensions, and extension of the same principles to directional dry adhesives and large patches.",
+    "key_numbers": [
+      {
+        "claim": "Hook model and size used for spines (Section 4.2, 'Spine shape')",
+        "quote": "The fishhooks used in the spines are Tiemco brand, model 900BL, size 14, made of steel covered in a black coating."
+      },
+      {
+        "claim": "RiSE toe construction and materials (Section 4.2.2)",
+        "quote": "the toe consists of a small hardened steel hooks (≈ 10 − 25µm tip radius) (Tiemco 900BL fish hooks) embedded in a molded structure of hard and soft urethane (Smooth-On Task 9 and Vytaflex 30, respectively) created using Shape Deposition Manufacturing"
+      },
+      {
+        "claim": "Human-climbing ('ZMan') toe material (Section 4.2.2)",
+        "quote": "it uses the Smooth-On Vytaflex 60 polyurethane for the flexures"
+      },
+      {
+        "claim": "Number of toes in the human-supporting patch (Section 4.2.2)",
+        "quote": "A picture of the author supported by a patch of 1200 ZMan toes is shown in figure 4.1(right)."
+      },
+      {
+        "claim": "Spines per group, robots vs human climbing (Chapter 4)",
+        "quote": "which can range from between 20-30 spines in a group for robot applications to thousands of spines for human climbing applications (e.g., ZMan)"
+      }
+    ],
+    "verification": "Stanford Digital Repository PURL page https://purl.stanford.edu/xt008ys4403 fetched: 'Ph.D. Stanford University 2010', 'Submitted to the Department of Electrical Engineering', primary advisor Mark R. Cutkosky, and 'This work is licensed under a Creative Commons Attribution Non Commercial No Derivatives 3.0 Unported license (CC BY-NC-ND).' Full text read from http://bdml.stanford.edu/twiki/pub/Rise/RisePublications/AlanThesis.pdf."
+  },
+  {
+    "key": "asbeck2012",
+    "authors": [
+      "Asbeck, Alan T.",
+      "Cutkosky, Mark R."
+    ],
+    "year": 2012,
+    "title": "Designing Compliant Spine Mechanisms for Climbing",
+    "venue": "Journal of Mechanisms and Robotics",
+    "volume": "4",
+    "issue": "3",
+    "pages": "031007",
+    "doi": "10.1115/1.40066591",
+    "url": "https://doi.org/10.1115/1.40066591",
+    "oa_url": null,
+    "type": "journal",
+    "category": "stanford-spines",
+    "summary": "Presents design principles for the compliant mechanisms that support and load spines on rough vertical surfaces, so that spine/surface constraints are satisfied and multiple spines share load without premature failure or overloading. The principles are demonstrated with a mechanism used for robotic and human climbing on brick, stucco and concrete.",
+    "key_numbers": [],
+    "verification": "Crossref record https://api.crossref.org/works/10.1115/1.40066591 (volume 4, issue 3, article 031007; online 2012-06-08, print 2012-08-01); the DOI resolves to the ASME page 'Designing-Compliant-Spine-Mechanisms-for-Climbing'; the same DOI string is printed on the authors' lab list http://bdml.stanford.edu/Main/Publications; abstract from Crossref."
+  },
+  {
+    "key": "asbeck2009",
+    "authors": [
+      "Asbeck, A.",
+      "Dastoor, S.",
+      "Parness, A.",
+      "Fullerton, L.",
+      "Esparza, N.",
+      "Soto, D.",
+      "Heyneman, B.",
+      "Cutkosky, M."
+    ],
+    "year": 2009,
+    "title": "Climbing rough vertical surfaces with hierarchical directional adhesion",
+    "venue": "2009 IEEE International Conference on Robotics and Automation (ICRA)",
+    "volume": null,
+    "issue": null,
+    "pages": "2675-2680",
+    "doi": "10.1109/robot.2009.5152864",
+    "url": "https://doi.org/10.1109/robot.2009.5152864",
+    "oa_url": "http://bdml.stanford.edu/twiki/pub/Rise/RisePublications/wedges_ICRA09.pdf",
+    "type": "conference",
+    "category": "adhesives",
+    "summary": "Presents a two-tiered directional dry-adhesive system (wedge-shaped distal features on angled cylindrical stalks) that gives a gecko-inspired climbing robot both directional adhesion and conformation to rougher surfaces such as wood panels, painted metals and plastics.",
+    "key_numbers": [
+      {
+        "claim": "Distal wedge dimensions (abstract as indexed; 'mum' = µm)",
+        "quote": "wedge-shaped structures with a base width of 50 mum and a height of approximately 180 mum"
+      },
+      {
+        "claim": "Proximal stalk dimensions (abstract as indexed)",
+        "quote": "angled cylindrical features, 380 mum in diameter by approximately 1 mm long"
+      },
+      {
+        "claim": "Benefit of the hierarchy on rougher surfaces",
+        "quote": "On rougher surfaces, the two-tiered system improves adhesion by a factor of five compared to the wedge features alone."
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/robot.2009.5152864 (pages 2675-2680); abstract from OpenAlex; listed with preprint on http://bdml.stanford.edu/twiki/bin/view/Main/PublicationList."
+  },
+  {
+    "key": "desbiens2011",
+    "authors": [
+      "Lussier Desbiens, Alexis",
+      "Asbeck, Alan T.",
+      "Cutkosky, Mark R."
+    ],
+    "year": 2011,
+    "title": "Landing, perching and taking off from vertical surfaces",
+    "venue": "The International Journal of Robotics Research",
+    "volume": "30",
+    "issue": "3",
+    "pages": "355-370",
+    "doi": "10.1177/0278364910393286",
+    "url": "https://doi.org/10.1177/0278364910393286",
+    "oa_url": null,
+    "type": "journal",
+    "category": "perching",
+    "summary": "Describes how a small unmanned aircraft can land on walls: an ultrasonic sensor triggers a pitch-up manoeuvre, spines engage surface asperities, and a non-linear suspension absorbs kinetic energy while keeping the spines attached. A planar dynamic model is used to choose suspension parameters and is compared with high-speed video and force-plate data.",
+    "key_numbers": [],
+    "verification": "Crossref record https://api.crossref.org/works/10.1177/0278364910393286 (volume 30, issue 3, pages 355-370; online 2011-01-20, print March 2011); abstract from Crossref.",
+    "label": "Lussier Desbiens 2011a"
+  },
+  {
+    "key": "desbiens2011b",
+    "authors": [
+      "Lussier Desbiens, Alexis",
+      "Asbeck, Alan T.",
+      "Cutkosky, Mark R."
+    ],
+    "year": 2011,
+    "title": "Scansorial Landing and Perching",
+    "venue": "Robotics Research: The 14th International Symposium ISRR (Springer Tracts in Advanced Robotics), eds. C. Pradalier, R. Siegwart, G. Hirzinger",
+    "volume": null,
+    "issue": null,
+    "pages": "169-184",
+    "doi": "10.1007/978-3-642-19457-3_11",
+    "url": "https://doi.org/10.1007/978-3-642-19457-3_11",
+    "oa_url": "http://bdml.stanford.edu/twiki/pub/Main/PerchingProject/ISRR09_ScansorialLandingAndPerching.pdf",
+    "type": "conference",
+    "category": "perching",
+    "summary": "Describes an approach for small unmanned aircraft to land and perch on outdoor walls: an ultrasonic sensor initiates a pitch-up manoeuvre, compliant feet with rows of miniature spines engage asperities, and a non-linear hierarchical suspension absorbs kinetic energy and controls contact forces.",
+    "key_numbers": [],
+    "verification": "Crossref record https://api.crossref.org/works/10.1007/978-3-642-19457-3_11 (book chapter, pages 169-184, 2011); abstract and editors from Springer's citation export (https://citation-needed.springer.com/v2/references/10.1007/978-3-642-19457-3_11?format=refman&flavour=citation); symposium date from http://bdml.stanford.edu/twiki/bin/view/Main/PublicationList ('14th International Symposium on Robotics Research, September 2009, Lucerne, Switzerland').",
+    "label": "Lussier Desbiens 2011b"
+  },
+  {
+    "key": "desbiens2010",
+    "authors": [
+      "Lussier Desbiens, Alexis",
+      "Cutkosky, Mark R."
+    ],
+    "year": 2010,
+    "title": "Landing and Perching on Vertical Surfaces with Microspines for Small Unmanned Air Vehicles",
+    "venue": "Journal of Intelligent and Robotic Systems",
+    "volume": "57",
+    "issue": "1-4",
+    "pages": "313-327",
+    "doi": "10.1007/s10846-009-9377-z",
+    "url": "https://doi.org/10.1007/s10846-009-9377-z",
+    "oa_url": null,
+    "type": "journal",
+    "category": "perching",
+    "summary": "First results of a system that lets small fixed-wing UAVs land and cling on surfaces such as brick walls using microspine arrays: a range sensor triggers an open-loop pitch-up, and a non-linear suspension absorbs the remaining kinetic energy and facilitates spine engagement.",
+    "key_numbers": [
+      {
+        "claim": "Envelope of acceptable touchdown states",
+        "quote": "pitch from 60–105 deg, vertical velocity from 0 to − 2.7 m/s and up to 3 m/s of horizontal velocity"
+      },
+      {
+        "claim": "Manoeuvre duration",
+        "quote": "The total maneuver duration is less than 1 s."
+      },
+      {
+        "claim": "Number of test landings",
+        "quote": "10 landings under autonomous control and 20 under manual control"
+      },
+      {
+        "claim": "Autonomous perching success rate",
+        "quote": "the success rate for autonomous perching on building walls is approximately 80%, the failures being attributed to erroneous wall detection"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1007/s10846-009-9377-z (volume 57, issue 1-4, pages 313-327; online 2009-10-22, print January 2010); abstract from Springer's citation export (https://citation-needed.springer.com/v2/references/10.1007/s10846-009-9377-z?format=refman&flavour=citation)."
+  },
+  {
+    "key": "pope2017",
+    "authors": [
+      "Pope, Morgan T.",
+      "Kimes, Christopher W.",
+      "Jiang, Hao",
+      "Hawkes, Elliot W.",
+      "Estrada, Matt A.",
+      "Kerst, Capella F.",
+      "Roderick, William R. T.",
+      "Han, Amy K.",
+      "Christensen, David L.",
+      "Cutkosky, Mark R."
+    ],
+    "year": 2017,
+    "title": "A Multimodal Robot for Perching and Climbing on Vertical Outdoor Surfaces",
+    "venue": "IEEE Transactions on Robotics",
+    "volume": "33",
+    "issue": "1",
+    "pages": "38-48",
+    "doi": "10.1109/tro.2016.2623346",
+    "url": "https://doi.org/10.1109/tro.2016.2623346",
+    "oa_url": null,
+    "type": "journal",
+    "category": "perching",
+    "summary": "Presents the Stanford Climbing and Aerial Maneuvering Platform (SCAMP), described as the first robot able to fly, perch passively on outdoor surfaces such as concrete and stucco, climb, and take off again, without motion capture or off-board computation. Also reports recovery from climbing failures, use of aerodynamic forces to increase usable foothold density, and measured power consumption.",
+    "key_numbers": [],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/tro.2016.2623346 (volume 33, issue 1, pages 38-48, February 2017); abstract from OpenAlex."
+  },
+  {
+    "key": "wang2016",
+    "authors": [
+      "Wang, Shiquan",
+      "Jiang, Hao",
+      "Cutkosky, Mark R."
+    ],
+    "year": 2016,
+    "title": "A palm for a rock climbing robot based on dense arrays of micro-spines",
+    "venue": "2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "volume": null,
+    "issue": null,
+    "pages": "52-59",
+    "doi": "10.1109/iros.2016.7759034",
+    "url": "https://doi.org/10.1109/iros.2016.7759034",
+    "oa_url": null,
+    "type": "conference",
+    "category": "stanford-spines",
+    "summary": "Presents a palm with a dense array of micro-spines for the JPL RoboSimian human-scale climbing robot, built from a linearly-constrained spine mechanism analysed with adhesion and stiffness models. A 120 x 100 mm palm of 12 spine tiles with a pulley differential for load sharing is tested on nine surfaces.",
+    "key_numbers": [
+      {
+        "claim": "Spine density and mean adhesion of the spine mechanism on coarse concrete (abstract as indexed)",
+        "quote": "This mechanism achieves a spine density of 19/cm2and a mean adhesion of 67N (207kPa) on coarse concrete surfaces."
+      },
+      {
+        "claim": "Palm size and construction",
+        "quote": "A 120×100mm palm consisting of 12 spine tiles and a pulley differential system for load sharing are designed and tested on 9 different surfaces."
+      },
+      {
+        "claim": "Palm shear adhesion on concrete blocks",
+        "quote": "The mean shear adhesion goes up to 710N (183kPa) on concrete blocks."
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/iros.2016.7759034 (pages 52-59; three authors); abstract from OpenAlex; also listed on http://bdml.stanford.edu/Main/Publications with a note of an IROS best-paper award."
+  },
+  {
+    "key": "jiang2018",
+    "authors": [
+      "Jiang, Hao",
+      "Wang, Shiquan",
+      "Cutkosky, Mark R."
+    ],
+    "year": 2018,
+    "title": "Stochastic models of compliant spine arrays for rough surface grasping",
+    "venue": "The International Journal of Robotics Research",
+    "volume": "37",
+    "issue": "7",
+    "pages": "669-687",
+    "doi": "10.1177/0278364918778350",
+    "url": "https://doi.org/10.1177/0278364918778350",
+    "oa_url": null,
+    "type": "journal",
+    "category": "modeling",
+    "summary": "Models arrays of compliantly supported spines attaching to rough surfaces: surfaces are characterised by asperity distributions, giving stochastic models of spine force capability over a range of loading directions for unidirectional arrays and for opposed pairs that resist normal pull-off. Experiments on several surfaces confirm the predictions and show the role of preloading strategy for opposed arrays.",
+    "key_numbers": [],
+    "verification": "Crossref record https://api.crossref.org/works/10.1177/0278364918778350 (volume 37, issue 7, pages 669-687, June 2018; three authors); abstract from Crossref."
+  },
+  {
+    "key": "wang2019",
+    "authors": [
+      "Wang, Shiquan",
+      "Jiang, Hao",
+      "Huh, Tae Myung",
+      "Sun, Danning",
+      "Ruotolo, Wilson",
+      "Miller, Matthew",
+      "Roderick, William R. T.",
+      "Stuart, Hannah S.",
+      "Cutkosky, Mark R."
+    ],
+    "year": 2019,
+    "title": "SpinyHand: Contact Load Sharing for a Human-Scale Climbing Robot",
+    "venue": "Journal of Mechanisms and Robotics",
+    "volume": "11",
+    "issue": "3",
+    "pages": "031009",
+    "doi": "10.1115/1.4043023",
+    "url": "https://doi.org/10.1115/1.4043023",
+    "oa_url": "http://bdml.stanford.edu/pmwiki/uploads/Main/MobileManipulationPubs/SpinyHandJMR-18-1464-min.pdf",
+    "type": "journal",
+    "category": "stanford-spines",
+    "summary": "Presents a hand specialised for climbing unstructured rocky surfaces: articulated fingers achieve grasps used by human climbers, gripping surfaces carry dense spine arrays, and a load-sharing transmission divides shear force among spine tiles on each phalanx. The kinematics and load sharing allow the achievable wrench space to be computed rapidly and compared with bench-top tests.",
+    "key_numbers": [
+      {
+        "claim": "Agreement between wrench-space model and bench-top tests",
+        "quote": "Bench-top tests show agreement with the model, with average wrench space errors of 10–15%, despite the stochastic nature of spine/surface interaction."
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1115/1.4043023 (volume 11, issue 3, article 031009; online 2019-04-09, print 2019-06-01); abstract from Crossref; preprint listed on http://bdml.stanford.edu/Main/Publications."
+  },
+  {
+    "key": "ruotolo2019",
+    "authors": [
+      "Ruotolo, Wilson",
+      "Roig, Frances S.",
+      "Cutkosky, Mark R."
+    ],
+    "year": 2019,
+    "title": "Load-Sharing in Soft and Spiny Paws for a Large Climbing Robot",
+    "venue": "IEEE Robotics and Automation Letters",
+    "volume": "4",
+    "issue": "2",
+    "pages": "1439-1446",
+    "doi": "10.1109/lra.2019.2897002",
+    "url": "https://doi.org/10.1109/lra.2019.2897002",
+    "oa_url": "http://bdml.stanford.edu/pmwiki/uploads/Main/MobileManipulationPubs/SoftAndSpiny_RALFinal.pdf",
+    "type": "journal",
+    "category": "stanford-spines",
+    "summary": "Presents an end-effector for a large climbing robot whose gripping surfaces are covered with sharp spines; soft flexure joints and a particle-jamming palm let it conform to varied shapes, and a differential distributes one actuator's force to the phalanges. Tests on instrumented surfaces confirm the predicted finger load sharing and palm performance.",
+    "key_numbers": [
+      {
+        "claim": "Load level at which rigidity is needed",
+        "quote": "strong tendons and the application of vacuum to the palm create rigidity when applying loads of 250 N and greater"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/lra.2019.2897002 (volume 4, issue 2, pages 1439-1446, April 2019); abstract from OpenAlex; preprint listed on http://bdml.stanford.edu/Main/Publications."
+  },
+  {
+    "key": "hawkes2015",
+    "authors": [
+      "Hawkes, Elliot W.",
+      "Eason, Eric V.",
+      "Christensen, David L.",
+      "Cutkosky, Mark R."
+    ],
+    "year": 2015,
+    "title": "Human climbing with efficiently scaled gecko-inspired dry adhesives",
+    "venue": "Journal of The Royal Society Interface",
+    "volume": "12",
+    "issue": "102",
+    "pages": "20140675",
+    "doi": "10.1098/rsif.2014.0675",
+    "url": "https://doi.org/10.1098/rsif.2014.0675",
+    "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4277072/",
+    "type": "journal",
+    "category": "human-climbing",
+    "summary": "Presents a mechanical load-sharing concept that distributes load nearly evenly over multiple patches of gecko-inspired adhesive, giving efficient scaling of adhesion with area over four orders of magnitude and graceful behaviour under simulated partial failure. A practical demonstration has a human climb vertical glass.",
+    "key_numbers": [
+      {
+        "claim": "Climber mass and adhesive area per hand (abstract; i.e. 70 kg, 140 cm²)",
+        "quote": "the synthetic adhesion system enabled a 70 kg human to climb vertical glass with 140 cm 2 of adhesive per hand"
+      },
+      {
+        "claim": "Scaling law reported for the tokay gecko (abstract as indexed)",
+        "quote": "σ max ∝ A −1/4"
+      },
+      {
+        "claim": "Scaling law of the synthetic system (abstract as indexed)",
+        "quote": "shows efficient scaling across four orders of magnitude of area, yielding an improved scaling power law: σ max ∝ A −1/50"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1098/rsif.2014.0675 (volume 12, issue 102, article 20140675, January 2015); abstract from Crossref and from PubMed Central record PMC4277072."
+  },
+  {
+    "key": "roderick2021",
+    "authors": [
+      "Roderick, W. R. T.",
+      "Cutkosky, M. R.",
+      "Lentink, D."
+    ],
+    "year": 2021,
+    "title": "Bird-inspired dynamic grasping and perching in arboreal environments",
+    "venue": "Science Robotics",
+    "volume": "6",
+    "issue": "61",
+    "pages": "eabj7562",
+    "doi": "10.1126/scirobotics.abj7562",
+    "url": "https://doi.org/10.1126/scirobotics.abj7562",
+    "oa_url": "https://hdl.handle.net/11370/3774f4d6-644f-45d7-8f70-276768d204b0",
+    "type": "journal",
+    "category": "perching",
+    "summary": "Presents a bird-inspired legged robot that perches dynamically on complex surfaces and grasps irregular objects: two legs passively convert impact energy into grasp force and an underactuated mechanism wraps around objects. Launch experiments at tree branches map the design, kinematic and perch parameters sufficient for success.",
+    "key_numbers": [
+      {
+        "claim": "Grasp closing time",
+        "quote": "the underactuated grasping mechanism wraps around irregularly shaped objects in less than 50 milliseconds"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1126/scirobotics.abj7562 (volume 6, issue 61, article eabj7562, 2021); full abstract from OpenAlex, which also reports an open copy of the published version in the University of Groningen repository."
+  },
+  {
+    "key": "santos2007",
+    "authors": [
+      "Santos, Daniel",
+      "Spenko, Matthew",
+      "Parness, Aaron",
+      "Kim, Sangbae",
+      "Cutkosky, Mark"
+    ],
+    "year": 2007,
+    "title": "Directional adhesion for climbing: theoretical and practical considerations",
+    "venue": "Journal of Adhesion Science and Technology",
+    "volume": "21",
+    "issue": "12-13",
+    "pages": "1317-1341",
+    "doi": "10.1163/156856107782328399",
+    "url": "https://doi.org/10.1163/156856107782328399",
+    "oa_url": null,
+    "type": "journal",
+    "category": "adhesives",
+    "summary": "Uses the gecko as a guide to principles for reliable manoeuvring on vertical surfaces, chiefly directional adhesion controlled through tangential foot forces and hierarchical compliance. Describes a synthetic fibrillar adhesive (Directional Polymer Stalks) and its application to a climbing robot.",
+    "key_numbers": [
+      {
+        "claim": "Stalk material stiffness",
+        "quote": "made from relatively soft polyurethane (modulus of elasticity ≈ 300 kPa)"
+      },
+      {
+        "claim": "Stalk geometry",
+        "quote": "The fibrils are angled 20° with respect to vertical and are approximately 1 mm long and 380 μm in diameter."
+      },
+      {
+        "claim": "Measured adhesion",
+        "quote": "achieving a maximum adhesion of approximately 1 N for a 3.9 cm2 patch when pulled in the direction in which the stalks are angled"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1163/156856107782328399 (volume 21, issue 12-13, pages 1317-1341, 2007); abstract from OpenAlex."
+  },
+  {
+    "key": "autumn2006",
+    "authors": [
+      "Autumn, K.",
+      "Dittmore, A.",
+      "Santos, D.",
+      "Spenko, M.",
+      "Cutkosky, M."
+    ],
+    "year": 2006,
+    "title": "Frictional adhesion: a new angle on gecko attachment",
+    "venue": "Journal of Experimental Biology",
+    "volume": "209",
+    "issue": "18",
+    "pages": "3569-3579",
+    "doi": "10.1242/jeb.02486",
+    "url": "https://doi.org/10.1242/jeb.02486",
+    "oa_url": null,
+    "type": "journal",
+    "category": "adhesives",
+    "summary": "Tests how adhesion in isolated gecko setal arrays and live gecko toes depends on shear force and detachment angle, finding that adhesion depends directly on shear force and is independent of detachment angle. Introduces the 'frictional adhesion' model of gecko pad attachment and compares the force-control strategies predicted by different adhesive models.",
+    "key_numbers": [],
+    "verification": "Crossref record https://api.crossref.org/works/10.1242/jeb.02486 (volume 209, issue 18, pages 3569-3579, 15 September 2006); abstract from Crossref."
+  },
+  {
+    "key": "parness2011",
+    "authors": [
+      "Parness, Aaron"
+    ],
+    "year": 2011,
+    "title": "Anchoring foot mechanisms for sampling and mobility in microgravity",
+    "venue": "2011 IEEE International Conference on Robotics and Automation (ICRA)",
+    "volume": null,
+    "issue": null,
+    "pages": "6596-6599",
+    "doi": "10.1109/icra.2011.5980584",
+    "url": "https://doi.org/10.1109/icra.2011.5980584",
+    "oa_url": null,
+    "type": "conference",
+    "category": "space",
+    "summary": "Presents an omni-directional anchoring mechanism built on microspine toes, using an opposed octagonal scissor configuration with rows of toes on each lever arm splayed around a central housing. The anchor is developed for the LEMUR IIb robot and can also support a coring drill, for mobility and sampling in microgravity.",
+    "key_numbers": [
+      {
+        "claim": "Anchor holding force",
+        "quote": "can withstand forces greater than 100 N on natural rock surfaces"
+      },
+      {
+        "claim": "Toe count per lever arm",
+        "quote": "an opposed octagonal scissor configuration with rows of 30 toes on each lever arm"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/icra.2011.5980584 (pages 6596-6599; single author); abstract from OpenAlex."
+  },
+  {
+    "key": "parness2012",
+    "authors": [
+      "Parness, Aaron",
+      "Frost, Matthew",
+      "Thatte, Nitish",
+      "King, Jonathan P."
+    ],
+    "year": 2012,
+    "title": "Gravity-independent mobility and drilling on natural rock using microspines",
+    "venue": "2012 IEEE International Conference on Robotics and Automation (ICRA)",
+    "volume": null,
+    "issue": null,
+    "pages": "3437-3442",
+    "doi": "10.1109/icra.2012.6224933",
+    "url": "https://doi.org/10.1109/icra.2012.6224933",
+    "oa_url": null,
+    "type": "conference",
+    "category": "space",
+    "summary": "Presents a 250 mm diameter omni-directional anchor that uses a hierarchical array of microspines (claws with suspension flexures) to grip rock, demonstrated on vesicular basalt and a'a lava rock. A two-actuator selectively compliant ankle interfaces the anchors to the LEMUR IIB robot, and an integrated rotary percussive drill demonstrates rock coring in an inverted configuration.",
+    "key_numbers": [
+      {
+        "claim": "Anchor diameter",
+        "quote": "a 250 mm diameter omni-directional anchor"
+      },
+      {
+        "claim": "Holding force per anchor by direction (abstract as indexed; '>;' = '>')",
+        "quote": "Each anchor can support >;160 N tangent, >;150 N at 45°, and >;180 N normal to the surface of the rock."
+      },
+      {
+        "claim": "Inverted drilling result",
+        "quote": "20mm diameter boreholes were drilled 83 mm deep in vesicular basalt samples, retaining a 12 mm diameter rock core in 3-6 pieces while in an inverted configuration"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/icra.2012.6224933 (pages 3437-3442); abstract from OpenAlex."
+  },
+  {
+    "key": "parness2013",
+    "authors": [
+      "Parness, Aaron",
+      "Frost, Mathew",
+      "Thatte, Nitish",
+      "King, Jonathan P.",
+      "Witkoe, Kevin",
+      "Nevarez, Moises",
+      "Garrett, Michael",
+      "Aghazarian, Hrand",
+      "Kennedy, Brett"
+    ],
+    "year": 2013,
+    "title": "Gravity-independent Rock-climbing Robot and a Sample Acquisition Tool with Microspine Grippers",
+    "venue": "Journal of Field Robotics",
+    "volume": "30",
+    "issue": "6",
+    "pages": "897-915",
+    "doi": "10.1002/rob.21476",
+    "url": "https://doi.org/10.1002/rob.21476",
+    "oa_url": null,
+    "type": "journal",
+    "category": "space",
+    "summary": "Presents a rock-climbing robot that free-climbs vertical, overhanging and inverted rock faces by gripping with hierarchical arrays of microspines, applying improved grippers to the four-limbed LEMUR IIB. Reports single-gripper pull tests on several rock types, sensor evaluations, climbing experiments in three gravitational orientations, and a sample-acquisition tool that uses a gripper to enable rotary percussive drilling.",
+    "key_numbers": [
+      {
+        "claim": "Microspines and carriages per gripper",
+        "quote": "Each gripper has over 250 microspines distributed in 16 carriages."
+      },
+      {
+        "claim": "Single-gripper holding capability",
+        "quote": "on rough rocks, a single gripper can support the entire mass of the robot (10 kg) in any orientation"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1002/rob.21476 (volume 30, issue 6, pages 897-915; online 2013-08-19, print November 2013); abstract from Crossref."
+  },
+  {
+    "key": "parness2017",
+    "authors": [
+      "Parness, Aaron",
+      "Abcouwer, Neil",
+      "Fuller, Christine",
+      "Wiltsie, Nicholas",
+      "Nash, Jeremy",
+      "Kennedy, Brett"
+    ],
+    "year": 2017,
+    "title": "LEMUR 3: A limbed climbing robot for extreme terrain mobility in space",
+    "venue": "2017 IEEE International Conference on Robotics and Automation (ICRA)",
+    "volume": null,
+    "issue": null,
+    "pages": "5467-5473",
+    "doi": "10.1109/icra.2017.7989643",
+    "url": "https://doi.org/10.1109/icra.2017.7989643",
+    "oa_url": null,
+    "type": "conference",
+    "category": "space",
+    "summary": "Introduces LEMUR 3, a four-limbed robot that has demonstrated climbing on cliff faces with microspine grippers and on smooth glass solar panels with gecko-adhesive grippers, using largely common hardware and software. Describes the mechanical, electrical and software systems, the gripping devices and field demonstrations.",
+    "key_numbers": [
+      {
+        "claim": "Actuators per limb",
+        "quote": "Each limb on the robot consists of seven identical actuators in a serial chain."
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/icra.2017.7989643 (pages 5467-5473); abstract from OpenAlex. The full text was not accessible (NASA NTRS record 20210008047 has no download), so gripper spine counts and holding forces from the body of the paper are NOT confirmed.",
+    "label": "Parness 2017a"
+  },
+  {
+    "key": "carpenter2016",
+    "authors": [
+      "Carpenter, Kalind",
+      "Wiltsie, Nick",
+      "Parness, Aaron"
+    ],
+    "year": 2016,
+    "title": "Rotary Microspine Rough Surface Mobility",
+    "venue": "IEEE/ASME Transactions on Mechatronics",
+    "volume": "21",
+    "issue": "5",
+    "pages": "2378-2390",
+    "doi": "10.1109/tmech.2015.2511012",
+    "url": "https://doi.org/10.1109/tmech.2015.2511012",
+    "oa_url": null,
+    "type": "journal",
+    "category": "wheeled-other",
+    "summary": "Describes JPL's lightweight, crash-proof robots whose wheels are built from arrays of independently compliant rotary microspines, letting them climb stairs, mount curbs and climb rough vertical walls. Presents improved wheels, new flexure materials including viscoelastic and single-cast designs, a rapid design-to-test process and new robot configurations with a powered tail wheel.",
+    "key_numbers": [
+      {
+        "claim": "Smallest platforms",
+        "quote": "miniaturized robots weighing less than 10 g"
+      },
+      {
+        "claim": "Design iteration time",
+        "quote": "This process allowed new wheel concepts to go from design to testing in just three days."
+      },
+      {
+        "claim": "Climbing height demonstrated",
+        "quote": "vertical climbing of concrete block buildings as tall as six stories"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/tmech.2015.2511012 (volume 21, issue 5, pages 2378-2390, October 2016); abstract from OpenAlex."
+  },
+  {
+    "key": "parness2017tool",
+    "authors": [
+      "Parness, Aaron",
+      "Willig, Andrew",
+      "Berg, Andrew",
+      "Shekels, Matthew",
+      "Arutyunov, Vladimir",
+      "Dandino, Charles",
+      "Kennedy, Brett"
+    ],
+    "year": 2017,
+    "title": "A microspine tool: Grabbing and anchoring to boulders on the Asteroid Redirect Mission",
+    "venue": "2017 IEEE Aerospace Conference",
+    "volume": null,
+    "issue": null,
+    "pages": "1-10",
+    "doi": "10.1109/aero.2017.7943904",
+    "url": "https://doi.org/10.1109/aero.2017.7943904",
+    "oa_url": null,
+    "type": "conference",
+    "category": "space",
+    "summary": "Describes the Microspine Tool baselined for NASA's proposed Asteroid Redirect Mission to grasp, anchor to and help extract a boulder from an asteroid in microgravity. Covers the tool's architecture, detailed design, and fabrication and testing of a development unit comprising a microspine gripper, anchoring drill and drivetrain.",
+    "key_numbers": [
+      {
+        "claim": "Number of tools baselined for the mission",
+        "quote": "ARM has baselined two Microspine Tools for grasping, anchoring to, and helping extract the boulder from the asteroid."
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/aero.2017.7943904 (pages 1-10); abstract from OpenAlex.",
+    "label": "Parness 2017b"
+  },
+  {
+    "key": "daltorio2009",
+    "authors": [
+      "Daltorio, Kathryn A.",
+      "Wei, Terence E.",
+      "Horchler, Andrew D.",
+      "Southard, Lori",
+      "Wile, Gregory D.",
+      "Quinn, Roger D.",
+      "Gorb, Stanislav N.",
+      "Ritzmann, Roy E."
+    ],
+    "year": 2009,
+    "title": "Mini-Whegs™ Climbs Steep Surfaces Using Insect-inspired Attachment Mechanisms",
+    "venue": "The International Journal of Robotics Research",
+    "volume": "28",
+    "issue": "2",
+    "pages": "285-302",
+    "doi": "10.1177/0278364908095334",
+    "url": "https://doi.org/10.1177/0278364908095334",
+    "oa_url": null,
+    "type": "journal",
+    "category": "wheeled-other",
+    "summary": "Tests wheel-legs fitted with office tape, pairs of spines and Velcro on the single-motor Mini-Whegs robots to show that adhesives and frictional materials can be applied passively on simple rotating legs. The robot climbs vertical fabric with Velcro, crosses ceilings with tape and climbs steep concrete inclines with sharp spines.",
+    "key_numbers": [],
+    "verification": "Crossref record https://api.crossref.org/works/10.1177/0278364908095334 (volume 28, issue 2, pages 285-302, February 2009); abstract from Crossref."
+  },
+  {
+    "key": "wile2008",
+    "authors": [
+      "Wile, G. D.",
+      "Daltorio, K. A.",
+      "Diller, E. D.",
+      "Palmer, L. R.",
+      "Gorb, S. N.",
+      "Ritzmann, R. E.",
+      "Quinn, R. D."
+    ],
+    "year": 2008,
+    "title": "Screenbot: Walking inverted using distributed inward gripping",
+    "venue": "2008 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "volume": null,
+    "issue": null,
+    "pages": "1513-1518",
+    "doi": "10.1109/iros.2008.4651045",
+    "url": "https://doi.org/10.1109/iros.2008.4651045",
+    "oa_url": null,
+    "type": "conference",
+    "category": "limbed-climbers",
+    "summary": "Presents Screenbot, a small robot that scales wire-mesh substrates using spines, walking with an alternating tripod gait driven by a single motor while opposing legs maintain tension. The resulting distributed inward gripping lets it climb vertically, walk inverted on a screen ceiling and cling passively.",
+    "key_numbers": [
+      {
+        "claim": "Robot mass",
+        "quote": "a new 126 gram biologically-inspired robot that scales wire mesh substrates using spines"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/iros.2008.4651045 (pages 1513-1518); abstract from OpenAlex."
+  },
+  {
+    "key": "haynes2009",
+    "authors": [
+      "Haynes, G. C.",
+      "Khripin, A.",
+      "Lynch, G.",
+      "Amory, J.",
+      "Saunders, A.",
+      "Rizzi, A. A.",
+      "Koditschek, D. E."
+    ],
+    "year": 2009,
+    "title": "Rapid pole climbing with a quadrupedal robot",
+    "venue": "2009 IEEE International Conference on Robotics and Automation (ICRA)",
+    "volume": null,
+    "issue": null,
+    "pages": "2767-2772",
+    "doi": "10.1109/robot.2009.5152830",
+    "url": "https://doi.org/10.1109/robot.2009.5152830",
+    "oa_url": "https://repository.upenn.edu/handle/20.500.14332/33690",
+    "type": "conference",
+    "category": "limbed-climbers",
+    "summary": "Describes the RiSE V3 legged robot, designed for general locomotion but specialised for dynamical high-speed climbing of convex cylindrical structures such as telephone poles, with novel leg linkages and a non-backdrivable, energy-dense transmission. Documents a gait that rapidly ascends a wooden pole while passively maintaining yaw, pitch and roll stability.",
+    "key_numbers": [
+      {
+        "claim": "RiSE V3 mass and size",
+        "quote": "the RiSE V3 climbing machine-mass 5.4 kg, length 70 cm, excluding a 28 cm tail appendage"
+      },
+      {
+        "claim": "Pole climbing speed",
+        "quote": "achieves rapid ascent of a wooden telephone pole at 21 cm/s"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/robot.2009.5152830 (pages 2767-2772); abstract from OpenAlex; open copy in the University of Pennsylvania repository."
+  },
+  {
+    "key": "nagaoka2018",
+    "authors": [
+      "Nagaoka, Kenji",
+      "Minote, Hayato",
+      "Maruya, Kyohei",
+      "Shirai, Yuki",
+      "Yoshida, Kazuya",
+      "Hakamada, Takeshi",
+      "Sawada, Hirotaka",
+      "Kubota, Takashi"
+    ],
+    "year": 2018,
+    "title": "Passive Spine Gripper for Free-Climbing Robot in Extreme Terrain",
+    "venue": "IEEE Robotics and Automation Letters",
+    "volume": "3",
+    "issue": "3",
+    "pages": "1765-1770",
+    "doi": "10.1109/lra.2018.2794517",
+    "url": "https://doi.org/10.1109/lra.2018.2794517",
+    "oa_url": null,
+    "type": "journal",
+    "category": "grippers",
+    "summary": "Presents a passive spine gripper that holds rough rocky surfaces by passively and adaptively latching fine spines onto microscopic asperities, with its design, mechanism and a static gripping model verified on a prototype. A lightweight four-limbed robot carrying the grippers is tested climbing a rugged, steep slope.",
+    "key_numbers": [
+      {
+        "claim": "Limb degrees of freedom",
+        "quote": "The limbed robot has four degrees of freedom in each limb, where three are to drive joints of the limb and one for releasing the gripper."
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/lra.2018.2794517 (volume 3, issue 3, pages 1765-1770, July 2018); abstract from OpenAlex."
+  },
+  {
+    "key": "uno2021",
+    "authors": [
+      "Uno, Kentaro",
+      "Takada, Naomasa",
+      "Okawara, Taku",
+      "Haji, Keigo",
+      "Candalot, Arthur",
+      "Ribeiro, Warley F. R.",
+      "Nagaoka, Kenji",
+      "Yoshida, Kazuya"
+    ],
+    "year": 2021,
+    "title": "HubRobo: A Lightweight Multi-Limbed Climbing Robot for Exploration in Challenging Terrain",
+    "venue": "2020 IEEE-RAS 20th International Conference on Humanoid Robots (Humanoids)",
+    "volume": null,
+    "issue": null,
+    "pages": "209-215",
+    "doi": "10.1109/humanoids47582.2021.9555799",
+    "url": "https://doi.org/10.1109/humanoids47582.2021.9555799",
+    "oa_url": null,
+    "type": "conference",
+    "category": "limbed-climbers",
+    "summary": "Presents the design and sequential control strategy of a lightweight quadruped climbing robot with 3-DOF actuated limbs, a 3-DOF passive compliant spine gripper at each foot and an actuator to open and close each gripper. A teleoperated experiment on an indoor field simulating uneven Martian terrain demonstrates stable climbing.",
+    "key_numbers": [
+      {
+        "claim": "Robot mass and height",
+        "quote": "reduce the entire mass of the robot to 3 kg with a base height of 0.16 m"
+      },
+      {
+        "claim": "Test-field inclination",
+        "quote": "an indoor test field simulating the Martian uneven slalom (local max. inclination: 45°)"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/humanoids47582.2021.9555799 (pages 209-215; issued 2021-07-19); abstract from OpenAlex."
+  },
+  {
+    "key": "tanaka2021",
+    "authors": [
+      "Tanaka, Yusuke",
+      "Shirai, Yuki",
+      "Lacey, Zachary",
+      "Lin, Xuan",
+      "Liu, Jane",
+      "Hong, Dennis"
+    ],
+    "year": 2021,
+    "title": "An Under-Actuated Whippletree Mechanism Gripper based on Multi-Objective Design Optimization with Auto-Tuned Weights",
+    "venue": "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "volume": null,
+    "issue": null,
+    "pages": "6139-6146",
+    "doi": "10.1109/iros51168.2021.9635872",
+    "url": "https://doi.org/10.1109/iros51168.2021.9635872",
+    "oa_url": "https://arxiv.org/abs/2110.00083",
+    "type": "conference",
+    "category": "grippers",
+    "summary": "Presents a rigid under-actuated gripper based on a whippletree mechanism that accommodates irregular and off-centre objects, together with a multi-objective parametric design optimisation for a one-wall climbing task that treats kinematics and grasping forces together. This is the paper that introduces the GOAT gripper later used on SCALER.",
+    "key_numbers": [
+      {
+        "claim": "Gripper name (arXiv full text, Section II-A)",
+        "quote": "Our proposed rigid under-actuated gripper, GOAT (Grasp Onto Any Terrain)"
+      },
+      {
+        "claim": "Spine fingertips (arXiv full text, Fig. 1 caption)",
+        "quote": "Spring loaded spines are employed at the tip to decrease the likelihood of slipping off the bouldering holds."
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/iros51168.2021.9635872 (pages 6139-6146); abstract from OpenAlex; arXiv full text (https://arxiv.org/abs/2110.00083) read to confirm that this is the GOAT paper."
+  },
+  {
+    "key": "tanaka2022",
+    "authors": [
+      "Tanaka, Yusuke",
+      "Shirai, Yuki",
+      "Lin, Xuan",
+      "Schperberg, Alexander",
+      "Kato, Hayato",
+      "Swerdlow, Alexander",
+      "Kumagai, Naoya",
+      "Hong, Dennis"
+    ],
+    "year": 2022,
+    "title": "SCALER: A Tough Versatile Quadruped Free-Climber Robot",
+    "venue": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "volume": null,
+    "issue": null,
+    "pages": "5632-5639",
+    "doi": "10.1109/iros47612.2022.9981555",
+    "url": "https://doi.org/10.1109/iros47612.2022.9981555",
+    "oa_url": "https://arxiv.org/abs/2207.01180",
+    "type": "conference",
+    "category": "limbed-climbers",
+    "summary": "Introduces SCALER, a quadrupedal robot that climbs bouldering walls, overhangs and ceilings and trots on the ground, using a body linkage mechanism, a new climbing gait (SKATE) that increases payload, and the underactuated two-finger GOAT gripper.",
+    "key_numbers": [
+      {
+        "claim": "Ground and wall speeds (abstract as indexed)",
+        "quote": "SCALER achieves a maximum normalized locomotion speed of 1.87 /s, or 0.56 m/s on the ground and 1.0 /min, or 0.35 m/min in bouldering wall climbing."
+      },
+      {
+        "claim": "Payload capacity",
+        "quote": "Payload capacity reaches 233 % of the SCALER weight on the ground and 35 % on the vertical wall."
+      },
+      {
+        "claim": "Acronym (arXiv full text, Section I)",
+        "quote": "SCALER: Spine-enhanced Climbing Autonomous Legged Exploration Robot"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/iros47612.2022.9981555 (pages 5632-5639); abstract from OpenAlex; arXiv version https://arxiv.org/abs/2207.01180 read for the acronym and gripper description."
+  },
+  {
+    "key": "tanaka2025",
+    "authors": [
+      "Tanaka, Yusuke",
+      "Shirai, Yuki",
+      "Schperberg, Alexander",
+      "Lin, Xuan",
+      "Hong, Dennis"
+    ],
+    "year": 2025,
+    "title": "SCALER: Versatile Multilimbed Robot for Free-Climbing in Extreme Terrains",
+    "venue": "IEEE Transactions on Robotics",
+    "volume": "41",
+    "issue": null,
+    "pages": "5189-5208",
+    "doi": "10.1109/tro.2025.3588446",
+    "url": "https://doi.org/10.1109/tro.2025.3588446",
+    "oa_url": "https://arxiv.org/abs/2312.04856",
+    "type": "journal",
+    "category": "limbed-climbers",
+    "summary": "Journal presentation of SCALER, a free-climbing multi-limbed robot designed for tightly coupled locomotion and grasping, with a torso mechanism, parallel-serial limbs and underactuated two-fingered GOAT grippers. Studies whole-body use of body and limbs to generate extra grasping force and faster gripper actuation for closed-loop dynamic climbing.",
+    "key_numbers": [
+      {
+        "claim": "Grasping modes",
+        "quote": "SCALER employs underactuated two-fingered GOAT grippers that can mechanically adapt and offer seven modes of grasping"
+      },
+      {
+        "claim": "Terrains traversed",
+        "quote": "SCALER can traverse vertical, overhanging, upside-down, slippery terrains and bouldering walls with nonconvex-shaped climbing holds under the Earth’s gravity"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/tro.2025.3588446 (volume 41, pages 5189-5208, 2025; licence CC BY 4.0); abstract from Semantic Scholar and from the arXiv version https://arxiv.org/abs/2312.04856 (comment: 'Accepted to IEEE Transactions on Robotics (T-RO), 2025')."
+  },
+  {
+    "key": "nadan2024",
+    "authors": [
+      "Nadan, Paul",
+      "Backus, Spencer",
+      "Johnson, Aaron M."
+    ],
+    "year": 2024,
+    "title": "LORIS: A Lightweight Free-Climbing Robot for Extreme Terrain Exploration",
+    "venue": "2024 IEEE International Conference on Robotics and Automation (ICRA)",
+    "volume": null,
+    "issue": null,
+    "pages": "18480-18486",
+    "doi": "10.1109/icra57147.2024.10611653",
+    "url": "https://doi.org/10.1109/icra57147.2024.10611653",
+    "oa_url": "https://www.ri.cmu.edu/app/uploads/2024/04/LORIS__A_Lightweight_Free_Climbing_Robot_for_Extreme_Terrain_Exploration.pdf",
+    "type": "conference",
+    "category": "limbed-climbers",
+    "summary": "Presents a lightweight free-climbing robot with fully passive microspine grippers and wrist joints, and an optimisation-based controller that distributes forces among the grippers to reduce the risk of unexpected detachment. The prototype climbs vertically on flat cinder-block walls and uneven rock in full Earth gravity.",
+    "key_numbers": [],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/icra57147.2024.10611653 (pages 18480-18486); abstract from OpenAlex; open copy hosted by the CMU Robotics Institute."
+  },
+  {
+    "key": "nadan2022",
+    "authors": [
+      "Nadan, Paul",
+      "Patel, Dinesh K.",
+      "Pavlov, Catherine",
+      "Backus, Spencer",
+      "Johnson, Aaron M."
+    ],
+    "year": 2022,
+    "title": "Microspine Design for Additive Manufacturing",
+    "venue": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "volume": null,
+    "issue": null,
+    "pages": "5640-5647",
+    "doi": "10.1109/iros47612.2022.9981634",
+    "url": "https://doi.org/10.1109/iros47612.2022.9981634",
+    "oa_url": null,
+    "type": "conference",
+    "category": "fabrication",
+    "summary": "Applies Hybrid Deposition Manufacturing to microspine fabrication and proposes a 3D-printed microspine suspension made by fused deposition alone from a single flexible material with an embedded fishhook, guided by a stiffness model. Tensile tests compare the printed designs with a standard Shape Deposition Manufacturing microspine.",
+    "key_numbers": [
+      {
+        "claim": "Comparison with SDM microspines (qualitative result)",
+        "quote": "the FDM process can produce microspines with equivalent normal and axial stiffness and superior maximum load and fatigue response to SDM microspines"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/iros47612.2022.9981634 (pages 5640-5647); abstract from OpenAlex."
+  },
+  {
+    "key": "liu2015",
+    "authors": [
+      "Liu, Yanwei",
+      "Sun, Shaoming",
+      "Wu, Xuan",
+      "Mei, Tao"
+    ],
+    "year": 2015,
+    "title": "A Wheeled Wall-Climbing Robot with Bio-Inspired Spine Mechanisms",
+    "venue": "Journal of Bionic Engineering",
+    "volume": "12",
+    "issue": "1",
+    "pages": "17-28",
+    "doi": "10.1016/s1672-6529(14)60096-2",
+    "url": "https://doi.org/10.1016/s1672-6529(14)60096-2",
+    "oa_url": null,
+    "type": "journal",
+    "category": "wheeled-other",
+    "summary": "Presents Tbot, a wheeled robot with two driving wheels and a flexible tail that climbs concrete and brick walls using circular arrays of miniature spines around its wheels, with a compliant spine mechanism inspired by the tarsal chain of a beetle. A mechanical model analyses spine forces during a climbing cycle and load sharing among spines.",
+    "key_numbers": [
+      {
+        "claim": "Overhang angle and speed",
+        "quote": "It could climb on 100° (10° past vertical) brick walls at a speed of 10 cm·s−1."
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1016/s1672-6529(14)60096-2 (volume 12, issue 1, pages 17-28, March 2015); abstract from Springer's citation export (https://citation-needed.springer.com/v2/references/10.1016/S1672-6529(14)60096-2?format=refman&flavour=citation)."
+  },
+  {
+    "key": "xu2012",
+    "authors": [
+      "Xu, Fengyu",
+      "Wang, Xingsong",
+      "Jiang, Guoping"
+    ],
+    "year": 2012,
+    "title": "Design and Analysis of a Wall-Climbing Robot Based on a Mechanism Utilizing Hook-Like Claws",
+    "venue": "International Journal of Advanced Robotic Systems",
+    "volume": "9",
+    "issue": "6",
+    "pages": "261",
+    "doi": "10.5772/53895",
+    "url": "https://doi.org/10.5772/53895",
+    "oa_url": "https://doi.org/10.5772/53895",
+    "type": "journal",
+    "category": "limbed-climbers",
+    "summary": "Proposes an attachment method for robots inspecting rough concrete walls based on hook-like claws, with a description of concrete surface roughness, two mechanical models of claw/micro-protuberance interaction and a design method for claw tips. An eight-foot wall-climbing robot is designed and tested on a man-made concrete wall.",
+    "key_numbers": [],
+    "verification": "Crossref record https://api.crossref.org/works/10.5772/53895 (volume 9, issue 6, article 261, 2012); abstract from Crossref; OpenAlex reports gold open access (CC BY)."
+  },
+  {
+    "key": "schneider2022",
+    "authors": [
+      "Schneider, Stephanie",
+      "Bylard, Andrew",
+      "Chen, Tony G.",
+      "Wang, Preston",
+      "Cutkosky, Mark",
+      "Lapotre, Mathieu",
+      "Pavone, Marco"
+    ],
+    "year": 2022,
+    "title": "ReachBot: A Small Robot for Large Mobile Manipulation Tasks",
+    "venue": "2022 IEEE Aerospace Conference (AERO)",
+    "volume": null,
+    "issue": null,
+    "pages": "1-12",
+    "doi": "10.1109/aero53065.2022.9843346",
+    "url": "https://doi.org/10.1109/aero53065.2022.9843346",
+    "oa_url": "https://arxiv.org/abs/2110.10829",
+    "type": "conference",
+    "category": "space",
+    "summary": "Proposes the ReachBot concept, which combines extendable booms with mobile manipulation to give a compact robot a large reachable workspace and wrench capability for climbing and low-gravity missions where anchor points are sparse. Develops a 2D dynamics model and a waypoint-tracking controller evaluated in simulation; the abstract does not discuss the gripper.",
+    "key_numbers": [],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/aero53065.2022.9843346 (pages 1-12); abstract from OpenAlex; arXiv version https://arxiv.org/abs/2110.10829."
+  },
+  {
+    "key": "chen2022",
+    "authors": [
+      "Chen, Tony G.",
+      "Miller, Becky",
+      "Winston, Crystal",
+      "Schneider, Stephanie",
+      "Bylard, Andrew",
+      "Pavone, Marco",
+      "Cutkosky, Mark R."
+    ],
+    "year": 2022,
+    "title": "ReachBot: A Small Robot with Exceptional Reach for Rough Terrain",
+    "venue": "2022 International Conference on Robotics and Automation (ICRA)",
+    "volume": null,
+    "issue": null,
+    "pages": "4517-4523",
+    "doi": "10.1109/icra46639.2022.9811949",
+    "url": "https://doi.org/10.1109/icra46639.2022.9811949",
+    "oa_url": null,
+    "type": "conference",
+    "category": "space",
+    "summary": "Presents the design and testing of a planar ReachBot prototype whose long, lightweight extending arms carry spined grippers for anchoring on rock. Experiments illustrate low-inertia passive grippers triggered by impact and using stored mechanical energy for internal force, and the trade-offs in gripper design.",
+    "key_numbers": [
+      {
+        "claim": "Measured pull force of the prototype gripper",
+        "quote": "The current prototype can pull with up to 8N when gripping volcanic rock, limited only by the strength of the 3D printed components."
+      },
+      {
+        "claim": "Predicted pull force with stronger materials",
+        "quote": "Calculations predict a maximum pull of 26N for the same spines and stronger materials."
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/icra46639.2022.9811949 (pages 4517-4523); abstract from OpenAlex."
+  },
+  {
+    "key": "newdick2023",
+    "authors": [
+      "Newdick, Stephanie",
+      "Ongole, Nitin",
+      "Chen, Tony G.",
+      "Schmerling, Edward",
+      "Cutkosky, Mark R.",
+      "Pavone, Marco"
+    ],
+    "year": 2023,
+    "title": "Motion Planning for a Climbing Robot with Stochastic Grasps",
+    "venue": "2023 IEEE International Conference on Robotics and Automation (ICRA)",
+    "volume": null,
+    "issue": null,
+    "pages": "11838-11844",
+    "doi": "10.1109/icra48891.2023.10160218",
+    "url": "https://doi.org/10.1109/icra48891.2023.10160218",
+    "oa_url": "https://arxiv.org/abs/2209.10687",
+    "type": "conference",
+    "category": "limbed-climbers",
+    "summary": "Introduces motion planning for ReachBot that accounts for the stochastic nature of grasping with spines: a graph-traversal algorithm selects a discrete grasp sequence from available terrain features, complemented by a decoupled motion planner using sampling-based planning and sequential convex programming.",
+    "key_numbers": [
+      {
+        "claim": "Planned success probability in simulation",
+        "quote": "plan a trajectory across a simulated 2D cave environment with at least 90% probability of success"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/icra48891.2023.10160218 (pages 11838-11844); abstract from OpenAlex; arXiv version https://arxiv.org/abs/2209.10687."
+  },
+  {
+    "key": "chen2024",
+    "authors": [
+      "Chen, Tony G.",
+      "Newdick, Stephanie",
+      "Di, Julia",
+      "Bosio, Carlo",
+      "Ongole, Nitin",
+      "Lapôtre, Mathieu",
+      "Pavone, Marco",
+      "Cutkosky, Mark R."
+    ],
+    "year": 2024,
+    "title": "Locomotion as manipulation with ReachBot",
+    "venue": "Science Robotics",
+    "volume": "9",
+    "issue": "89",
+    "pages": "eadi9762",
+    "doi": "10.1126/scirobotics.adi9762",
+    "url": "https://doi.org/10.1126/scirobotics.adi9762",
+    "oa_url": "https://arxiv.org/abs/2407.00973",
+    "type": "journal",
+    "category": "space",
+    "summary": "Presents ReachBot, which uses extendable booms ending in microspine grippers to manipulate itself relative to irregular rock, aimed at caves and lava tubes on the Moon and Mars. Describes a contact-before-motion planner with internal force control, a Monte Carlo simulation used to inform gripper design and predict grasp strength, a two-step perception system, and a field test of one arm and gripper in a Mojave Desert lava tube.",
+    "key_numbers": [],
+    "verification": "Crossref record https://api.crossref.org/works/10.1126/scirobotics.adi9762 (volume 9, issue 89, article eadi9762, 17 April 2024); abstract from Crossref; arXiv version https://arxiv.org/abs/2407.00973."
+  },
+  {
+    "key": "birkmeyer2011",
+    "authors": [
+      "Birkmeyer, P.",
+      "Gillies, A. G.",
+      "Fearing, R. S."
+    ],
+    "year": 2011,
+    "title": "CLASH: Climbing vertical loose cloth",
+    "venue": "2011 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "volume": null,
+    "issue": null,
+    "pages": "5087-5093",
+    "doi": "10.1109/iros.2011.6094905",
+    "url": "https://doi.org/10.1109/iros.2011.6094905",
+    "oa_url": null,
+    "type": "conference",
+    "category": "limbed-climbers",
+    "summary": "Presents CLASH, a small hexapedal robot with a single actuator and passive foot mechanisms that engage and disengage spines smoothly on penetrable surfaces, described as the first robot to climb loose vertical cloth.",
+    "key_numbers": [
+      {
+        "claim": "Size, mass and climbing speed",
+        "quote": "CLASH is a 10cm, 15g robot capable of climbing vertical loose-cloth surfaces at 15 cm per second."
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/iros.2011.6094905 (pages 5087-5093); abstract from OpenAlex."
+  },
+  {
+    "key": "lynch2012",
+    "authors": [
+      "Lynch, Goran A.",
+      "Clark, Jonathan E.",
+      "Lin, Pei-Chun",
+      "Koditschek, Daniel E."
+    ],
+    "year": 2012,
+    "title": "A bioinspired dynamical vertical climbing robot",
+    "venue": "The International Journal of Robotics Research",
+    "volume": "31",
+    "issue": "8",
+    "pages": "974-996",
+    "doi": "10.1177/0278364912442096",
+    "url": "https://doi.org/10.1177/0278364912442096",
+    "oa_url": null,
+    "type": "journal",
+    "category": "limbed-climbers",
+    "summary": "Describes the inspiration, design, analysis and implementation of a dynamical vertical climbing robot based on a pendulous climbing template proposed by biologists, studied numerically at a scale suited to conventional actuation. Analysis addresses the stability concerns raised by added passive compliance, and prototypes are compared with the models.",
+    "key_numbers": [
+      {
+        "claim": "Vertical climbing speed",
+        "quote": "our final prototype climbs dynamically at vertical speeds up to 0.67 m/s (1.5 body-lengths per second, in rough agreement with our models’ predictions)"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1177/0278364912442096 (volume 31, issue 8, pages 974-996; online 2012-04-26, print July 2012); abstract from Crossref."
+  },
+  {
+    "key": "dai2002",
+    "authors": [
+      "Dai, Zhendong",
+      "Gorb, Stanislav N.",
+      "Schwarz, Uli"
+    ],
+    "year": 2002,
+    "title": "Roughness-dependent friction force of the tarsal claw system in the beetle Pachnoda marginata (Coleoptera, Scarabaeidae)",
+    "venue": "Journal of Experimental Biology",
+    "volume": "205",
+    "issue": "16",
+    "pages": "2479-2488",
+    "doi": "10.1242/jeb.205.16.2479",
+    "url": "https://doi.org/10.1242/jeb.205.16.2479",
+    "oa_url": null,
+    "type": "journal",
+    "category": "biology",
+    "summary": "Measures slide-resisting forces generated by the claws of freely walking beetles on substrates of different texture, together with the claw's mechanical strength and structure. Proposes a model in which force depends on the size of surface roughness relative to the claw-tip diameter: interlocking when roughness is much larger than the tip, friction-dominated when it is comparable or smaller.",
+    "key_numbers": [
+      {
+        "claim": "Claw bending stress",
+        "quote": "The bending stress of the claw was evaluated as 143.4-684.2 MPa, depending on the cross-section model selected."
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1242/jeb.205.16.2479 (volume 205, issue 16, pages 2479-2488, 15 August 2002); abstract from Crossref."
+  },
+  {
+    "key": "roth1952",
+    "authors": [
+      "Roth, Louis M.",
+      "Willis, Edwin R."
+    ],
+    "year": 1952,
+    "title": "Tarsal structure and climbing ability of cockroaches",
+    "venue": "Journal of Experimental Zoology",
+    "volume": "119",
+    "issue": "3",
+    "pages": "483-517",
+    "doi": "10.1002/jez.1401190307",
+    "url": "https://doi.org/10.1002/jez.1401190307",
+    "oa_url": null,
+    "type": "journal",
+    "category": "biology",
+    "summary": "Not summarised: the abstract was not available when this list was checked.",
+    "key_numbers": [],
+    "verification": "Crossref record https://api.crossref.org/works/10.1002/jez.1401190307 (volume 119, issue 3, pages 483-517, April 1952). Asbeck's thesis (https://purl.stanford.edu/xt008ys4403) cites it as noting that P. americana can walk vertically and inverted on rough filter and emery paper using only its tarsal claws; that description is secondary and was not checked against the article."
+  },
+  {
+    "key": "zani2000",
+    "authors": [
+      "Zani, P. A."
+    ],
+    "year": 2000,
+    "title": "The comparative evolution of lizard claw and toe morphology and clinging performance",
+    "venue": "Journal of Evolutionary Biology",
+    "volume": "13",
+    "issue": "2",
+    "pages": "316-325",
+    "doi": "10.1046/j.1420-9101.2000.00166.x",
+    "url": "https://doi.org/10.1046/j.1420-9101.2000.00166.x",
+    "oa_url": null,
+    "type": "journal",
+    "category": "biology",
+    "summary": "Phylogenetically controlled comparison across lizard taxa of claw and toe morphology against clinging performance. Increases in claw curvature, toe width and adhesive lamella number correlate with better clinging on smooth substrates, while increases in claw height and decreases in toe length correlate with better clinging on rough substrates.",
+    "key_numbers": [
+      {
+        "claim": "Sample",
+        "quote": "across 85 lizard taxa from 13 families"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1046/j.1420-9101.2000.00166.x (volume 13, issue 2, pages 316-325, March 2000); abstract from Crossref. Crossref, OpenAlex and Semantic Scholar hold only the family name 'Zani'; the initials 'P.A.' are taken from the reference list of Asbeck's thesis and were not confirmed on the publisher page (HTTP 403)."
+  },
+  {
+    "key": "mattheck1991",
+    "authors": [
+      "Mattheck, C.",
+      "Reuss, S."
+    ],
+    "year": 1991,
+    "title": "The claw of the tiger: An assessment of its mechanical shape optimization",
+    "venue": "Journal of Theoretical Biology",
+    "volume": "150",
+    "issue": "3",
+    "pages": "323-328",
+    "doi": "10.1016/s0022-5193(05)80431-x",
+    "url": "https://doi.org/10.1016/s0022-5193(05)80431-x",
+    "oa_url": null,
+    "type": "journal",
+    "category": "biology",
+    "summary": "Not summarised: the abstract was not available when this list was checked.",
+    "key_numbers": [],
+    "verification": "Crossref record https://api.crossref.org/works/10.1016/s0022-5193(05)80431-x (volume 150, issue 3, pages 323-328, June 1991)."
+  },
+  {
+    "key": "bullock2011",
+    "authors": [
+      "Bullock, James M. R.",
+      "Federle, Walter"
+    ],
+    "year": 2011,
+    "title": "The effect of surface roughness on claw and adhesive hair performance in the dock beetle Gastrophysa viridula",
+    "venue": "Insect Science",
+    "volume": "18",
+    "issue": "3",
+    "pages": "298-304",
+    "doi": "10.1111/j.1744-7917.2010.01369.x",
+    "url": "https://doi.org/10.1111/j.1744-7917.2010.01369.x",
+    "oa_url": null,
+    "type": "journal",
+    "category": "biology",
+    "summary": "Measures attachment forces of dock beetles on epoxy casts of surfaces with controlled roughness using a centrifuge, with and without claws. Forces on rough substrates are much lower than on smooth ones, claws contribute only above a certain asperity size, and the hairy adhesive system alone performs below its smooth-surface level because setal tips cannot make full contact.",
+    "key_numbers": [
+      {
+        "claim": "Range of asperity sizes tested",
+        "quote": "standardized polishing paper with asperity sizes ranging from 0.05 to 30 μm"
+      },
+      {
+        "claim": "Safety factor on smooth substrates",
+        "quote": "Beetles adhered with a safety factor of up to 36 times body weight on smooth substrates or on casts of leaves of their host plant."
+      },
+      {
+        "claim": "Minimum at fine roughness",
+        "quote": "a minimum at small scale roughness (0.05 μm asperity size, with a mean safety factor of 5) was observed"
+      },
+      {
+        "claim": "Roughness at which claws matter",
+        "quote": "Removal of the claws led to a significant reduction in force for rough substrates with asperity sizes ≥ 12 μm."
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1111/j.1744-7917.2010.01369.x (volume 18, issue 3, pages 298-304; online 2010-11-18, print June 2011); abstract from OpenAlex."
+  },
+  {
+    "key": "goyal1989",
+    "authors": [
+      "Goyal, S.",
+      "Ruina, A.",
+      "Papadopoulos, J."
+    ],
+    "year": 1989,
+    "title": "Limit surface and moment function descriptions of planar sliding",
+    "venue": "Proceedings, 1989 IEEE International Conference on Robotics and Automation",
+    "volume": null,
+    "issue": null,
+    "pages": "794-799",
+    "doi": "10.1109/robot.1989.100081",
+    "url": "https://doi.org/10.1109/robot.1989.100081",
+    "oa_url": null,
+    "type": "conference",
+    "category": "contact-mechanics",
+    "summary": "Presents two geometric descriptions of the frictional properties of a rigid body sliding on a planar surface: the limit surface, bounding all frictional forces and moments the interface can sustain, and Zhukovskii's moment function. Both contain the relationship between slip motion and frictional load and can be used to deduce overall sliding behaviour.",
+    "key_numbers": [],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/robot.1989.100081 (pages 794-799); abstract from OpenAlex."
+  },
+  {
+    "key": "goyal1991",
+    "authors": [
+      "Goyal, Suresh",
+      "Ruina, Andy",
+      "Papadopoulos, Jim"
+    ],
+    "year": 1991,
+    "title": "Planar sliding with dry friction Part 1. Limit surface and moment function",
+    "venue": "Wear",
+    "volume": "143",
+    "issue": "2",
+    "pages": "307-330",
+    "doi": "10.1016/0043-1648(91)90104-3",
+    "url": "https://doi.org/10.1016/0043-1648(91)90104-3",
+    "oa_url": "https://doi.org/10.1016/0043-1648(91)90104-3",
+    "type": "journal",
+    "category": "contact-mechanics",
+    "summary": "Presents two geometric descriptions of the net frictional force and moment between a rigid body and the planar surface on which it slides: the limit surface in load space and Zhukovskii's moment function. The limit surface applies to a wider class of friction laws than isotropic Coulomb friction, and both descriptions can be used to deduce the motion of sliding rigid bodies.",
+    "key_numbers": [],
+    "verification": "Crossref record https://api.crossref.org/works/10.1016/0043-1648(91)90104-3 (volume 143, issue 2, pages 307-330, March 1991; Crossref lists a CC BY-NC-ND 4.0 licence and OpenAlex reports hybrid open access at the publisher); abstract from OpenAlex."
+  },
+  {
+    "key": "cham2002",
+    "authors": [
+      "Cham, Jorge G.",
+      "Bailey, Sean A.",
+      "Clark, Jonathan E.",
+      "Full, Robert J.",
+      "Cutkosky, Mark R."
+    ],
+    "year": 2002,
+    "title": "Fast and Robust: Hexapedal Robots via Shape Deposition Manufacturing",
+    "venue": "The International Journal of Robotics Research",
+    "volume": "21",
+    "issue": "10-11",
+    "pages": "869-882",
+    "doi": "10.1177/0278364902021010837",
+    "url": "https://doi.org/10.1177/0278364902021010837",
+    "oa_url": null,
+    "type": "journal",
+    "category": "fabrication",
+    "summary": "Argues that biomimetic robot design should be combined with structures built the way biological ones are, with embedded actuators and sensors and spatially varied materials, enabled by Shape Deposition Manufacturing. Presents a family of fast, robust hexapedal robots made this way, with their design, fabrication and locomotion experiments.",
+    "key_numbers": [
+      {
+        "claim": "Speed and obstacle performance",
+        "quote": "fast (over four body-lengths per second) and robust (traversal over hip-height obstacles) performance"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1177/0278364902021010837 (volume 21, issue 10-11, pages 869-882, October 2002); abstract from Crossref."
+  },
+  {
+    "key": "quaine1997a",
+    "authors": [
+      "Quaine, Franck",
+      "Martin, Luc",
+      "Blanchi, Jean-Pierre"
+    ],
+    "year": 1997,
+    "title": "The Effect of Body Position and Number of Supports on Wall Reaction Forces in Rock Climbing",
+    "venue": "Journal of Applied Biomechanics",
+    "volume": "13",
+    "issue": "1",
+    "pages": "14-23",
+    "doi": "10.1123/jab.13.1.14",
+    "url": "https://doi.org/10.1123/jab.13.1.14",
+    "oa_url": null,
+    "type": "journal",
+    "category": "human-climbing",
+    "summary": "Reports three-dimensional forces at the holds while expert climbers move from a four-support vertical posture to three supports by releasing the right hand, in an imposed position (trunk far from the wall) and an optimised position (trunk close to the wall). The same pattern of vertical and contact forces was used in both, with less extensive force transfer in the optimised position.",
+    "key_numbers": [
+      {
+        "claim": "Participants and task",
+        "quote": "Starting from a quadrupedal vertical posture, 6 expert climbers had to release their right-hand holds and maintain the tripedal posture for a few seconds."
+      },
+      {
+        "claim": "Main finding on force transfer (qualitative)",
+        "quote": "In the optimized position, the transfer of the forces was less extensive than in the imposed position, so that the forces were exerted primarily on the ipsilateral hold."
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1123/jab.13.1.14 (volume 13, issue 1, pages 14-23, February 1997); abstract from Crossref.",
+    "label": "Quaine 1997a"
+  },
+  {
+    "key": "quaine1997b",
+    "authors": [
+      "Quaine, F.",
+      "Martin, L.",
+      "Blanchi, J.P."
+    ],
+    "year": 1997,
+    "title": "Effect of a leg movement on the organisation of the forces at the holds in a climbing position 3-D kinetic analysis",
+    "venue": "Human Movement Science",
+    "volume": "16",
+    "issue": "2-3",
+    "pages": "337-346",
+    "doi": "10.1016/s0167-9457(96)00060-7",
+    "url": "https://doi.org/10.1016/s0167-9457(96)00060-7",
+    "oa_url": null,
+    "type": "journal",
+    "category": "human-climbing",
+    "summary": "Not summarised: the abstract was not available when this list was checked.",
+    "key_numbers": [],
+    "verification": "Crossref record https://api.crossref.org/works/10.1016/s0167-9457(96)00060-7 (volume 16, issue 2-3, pages 337-346, April 1997). Semantic Scholar reports the abstract as 'elided by the publisher'; ScienceDirect returned HTTP 403.",
+    "label": "Quaine 1997b"
+  },
+  {
+    "key": "quaine1999",
+    "authors": [
+      "Quaine, F.",
+      "Martin, L."
+    ],
+    "year": 1999,
+    "title": "A biomechanical study of equilibrium in sport rock climbing",
+    "venue": "Gait & Posture",
+    "volume": "10",
+    "issue": "3",
+    "pages": "233-239",
+    "doi": "10.1016/s0966-6362(99)00024-7",
+    "url": "https://doi.org/10.1016/s0966-6362(99)00024-7",
+    "oa_url": null,
+    "type": "journal",
+    "category": "human-climbing",
+    "summary": "Analyses the arrangement of three-dimensional reaction forces at four instrumented holds when a hanging climber voluntarily releases the right foot. After release, vertical forces are shared in a three-support stance while horizontal forces are carried on two laterally opposite holds.",
+    "key_numbers": [
+      {
+        "claim": "Instrumentation",
+        "quote": "The three dimensional reaction forces applied to the holds were measured using four holds equipped with strain gauges."
+      },
+      {
+        "claim": "Force arrangement after foot release (qualitative)",
+        "quote": "The force arrangement after the release consisted of a tripedal stance on the three remaining holds for the vertical forces, and of a bipedal stance on two laterally opposite holds (left foot and left holds) for the horizontal forces."
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1016/s0966-6362(99)00024-7 (volume 10, issue 3, pages 233-239, December 1999); abstract from PubMed (PMID 10567755, https://pubmed.ncbi.nlm.nih.gov/10567755)."
+  },
+  {
+    "key": "noe2001",
+    "authors": [
+      "Noé, Frédéric",
+      "Quaine, F.",
+      "Martin, L."
+    ],
+    "year": 2001,
+    "title": "Influence of steep gradient supporting walls in rock climbing: biomechanical analysis",
+    "venue": "Gait & Posture",
+    "volume": "13",
+    "issue": "2",
+    "pages": "86-94",
+    "doi": "10.1016/s0966-6362(00)00098-9",
+    "url": "https://doi.org/10.1016/s0966-6362(00)00098-9",
+    "oa_url": null,
+    "type": "journal",
+    "category": "human-climbing",
+    "summary": "Compares reaction forces at the holds in vertical and overhanging climbing positions while subjects release the right foot and regain equilibrium. In the overhang the arms are significantly involved in preventing a fall, horizontal hold forces are smaller, and the three-support state shows less contralateral force transfer.",
+    "key_numbers": [
+      {
+        "claim": "Arm involvement in the overhang (qualitative)",
+        "quote": "In the overhanging position the quadrupedal state was characterised by a significant involvement of the arms to prevent fall."
+      },
+      {
+        "claim": "Horizontal forces in the overhang (qualitative)",
+        "quote": "the horizontal forces applied to the holds were less important, which suggests that equilibrium was easier to maintain than in the vertical position"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1016/s0966-6362(00)00098-9 (volume 13, issue 2, pages 86-94, April 2001); abstract from PubMed (PMID 11240356, https://pubmed.ncbi.nlm.nih.gov/11240356)."
+  },
+  {
+    "key": "testa1999",
+    "authors": [
+      "Testa, M.",
+      "Martin, L.",
+      "Debû, B."
+    ],
+    "year": 1999,
+    "title": "Effects of the type of holds and movement amplitude on postural control associated with a climbing task",
+    "venue": "Gait & Posture",
+    "volume": "9",
+    "issue": "1",
+    "pages": "57-64",
+    "doi": "10.1016/s0966-6362(98)00036-8",
+    "url": "https://doi.org/10.1016/s0966-6362(98)00036-8",
+    "oa_url": null,
+    "type": "journal",
+    "category": "human-climbing",
+    "summary": "Characterises how postural adjustments during a climbing task change with movement amplitude and hold type, by analysing horizontal and vertical forces and momentum. Horizontal momentum is affected by all conditions before movement onset and relates mainly to equilibrium control, whereas vertical momentum depends only on amplitude after onset and contributes to movement initiation.",
+    "key_numbers": [
+      {
+        "claim": "Horizontal momentum (qualitative)",
+        "quote": "The results show that the horizontal momentum is influenced by all experimental conditions before the onset of movement."
+      },
+      {
+        "claim": "Vertical momentum (qualitative)",
+        "quote": "By contrast, the vertical momentum is only influenced by the amplitude of the movement, after its onset."
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1016/s0966-6362(98)00036-8 (volume 9, issue 1, pages 57-64, March 1999); abstract from PubMed (PMID 10575071, https://pubmed.ncbi.nlm.nih.gov/10575071)."
+  },
+  {
+    "key": "wang2017",
+    "authors": [
+      "Wang, Shiquan",
+      "Jiang, Hao",
+      "Cutkosky, Mark R."
+    ],
+    "year": 2017,
+    "title": "Design and modeling of linearly-constrained compliant spines for human-scale locomotion on rocky surfaces",
+    "venue": "The International Journal of Robotics Research",
+    "volume": "36",
+    "issue": "9",
+    "pages": "985-999",
+    "doi": "10.1177/0278364917720019",
+    "url": "https://doi.org/10.1177/0278364917720019",
+    "oa_url": null,
+    "type": "journal",
+    "category": "stanford-spines",
+    "summary": "Presents linearly-constrained spines for human-scale robots on steep rocky surfaces: low stiffness normal to the surface but high stiffness against lateral and bending loads, giving much higher spine density and less scraping than earlier arrays for small robots. Theory and experiments predict forces for single and opposed arrays, with applications including a gripper for a 'smart staff' and a palm for the RoboSimian quadruped.",
+    "key_numbers": [
+      {
+        "claim": "Shear stress capability",
+        "quote": "this solution is capable of shear stresses of over 200kPa"
+      },
+      {
+        "claim": "Palm shear force",
+        "quote": "a palm that provides over 700N in shear for the RoboSimian quadruped"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1177/0278364917720019 (volume 36, issue 9, pages 985-999; online 2017-07-21, print August 2017); abstract from Crossref; also listed on http://bdml.stanford.edu/Main/Publications."
+  },
+  {
+    "key": "roderick2017",
+    "authors": [
+      "Roderick, William R. T.",
+      "Cutkosky, Mark R.",
+      "Lentink, David"
+    ],
+    "year": 2017,
+    "title": "Touchdown to take-off: at the interface of flight and surface locomotion",
+    "venue": "Interface Focus",
+    "volume": "7",
+    "issue": "1",
+    "pages": "20160094",
+    "doi": "10.1098/rsfs.2016.0094",
+    "url": "https://doi.org/10.1098/rsfs.2016.0094",
+    "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5206611/",
+    "type": "journal",
+    "category": "review",
+    "summary": "Review of bimodal aerial and surface locomotion in small robots and flying animals, covering the aerodynamics of surface approach and take-off, the contact dynamics of perching and attachment, and surface locomotion. Notes that the maximal size of perching animals and robots is limited by scaling laws for both adhesion and claw-based attachment.",
+    "key_numbers": [
+      {
+        "claim": "Size limit from attachment scaling (qualitative)",
+        "quote": "The maximal size of both perching animals and robots is limited by scaling laws for both adhesion and claw-based surface attachment."
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1098/rsfs.2016.0094 (volume 7, issue 1, article 20160094, 6 February 2017); abstract from Crossref; open copy in PubMed Central (PMC5206611)."
+  },
+  {
+    "key": "roderick2019",
+    "authors": [
+      "Roderick, William R. T.",
+      "Chin, Diana D.",
+      "Cutkosky, Mark R.",
+      "Lentink, David"
+    ],
+    "year": 2019,
+    "title": "Birds land reliably on complex surfaces by adapting their foot-surface interactions upon contact",
+    "venue": "eLife",
+    "volume": "8",
+    "issue": null,
+    "pages": "e46415",
+    "doi": "10.7554/elife.46415",
+    "url": "https://doi.org/10.7554/elife.46415",
+    "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6684272/",
+    "type": "journal",
+    "category": "biology",
+    "summary": "Shows that Pacific parrotlets use stereotyped leg and wing dynamics when landing regardless of perch diameter and texture, while foot, toe and claw kinematics become surface-specific at touchdown. A dynamic grasping model indicates that the birds combine predictable toe-pad friction with probabilistic friction from claws that are dragged to find surface asperities.",
+    "key_numbers": [
+      {
+        "claim": "Speed of claw repositioning",
+        "quote": "parrotlet claws can undergo superfast movements, within 1–2 ms, on moderately slippery surfaces to find more secure asperities when necessary"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.7554/elife.46415 (volume 8, article e46415, 6 August 2019; licence CC BY 4.0); abstract from Crossref; open copy in PubMed Central (PMC6684272)."
+  },
+  {
+    "key": "merriam2016",
+    "authors": [
+      "Merriam, Ezekiel G.",
+      "Berg, Andrew B.",
+      "Willig, Andrew",
+      "Parness, Aaron",
+      "Frey, Tim",
+      "Howell, Larry L."
+    ],
+    "year": 2016,
+    "title": "Microspine Gripping Mechanism for Asteroid Capture",
+    "venue": "43rd Aerospace Mechanisms Symposium (Santa Clara, CA, May 2016)",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "doi": null,
+    "url": "https://ntrs.nasa.gov/citations/20160008148",
+    "oa_url": "https://ntrs.nasa.gov/api/citations/20160008148/downloads/20160008148.pdf",
+    "type": "conference",
+    "category": "space",
+    "summary": "Details the development and early testing of a compliant suspension for a microspine gripper intended for asteroid capture or microgravity percussive drilling: the gripper architecture is reviewed, a suspension design is proposed, and prototyping and test methods and results are discussed.",
+    "key_numbers": [
+      {
+        "claim": "Key finding (qualitative)",
+        "quote": "the microspine concept has been established as a valid architecture and the compliant suspension exhibits the desired stiffness characteristics for good gripping behavior"
+      }
+    ],
+    "verification": "NASA Technical Reports Server record 20160008148 fetched via https://ntrs.nasa.gov/api/citations/search (title, six authors, publication '43rd Aerospace Mechanisms Symposium', date 2016-05-04, downloadable PDF); symposium location from NTRS record 20160004038. No DOI; page numbers not confirmed."
+  },
+  {
+    "key": "backus2020",
+    "authors": [
+      "Backus, Spencer B.",
+      "Onishi, Rina",
+      "Bocklund, Andrew",
+      "Berg, Andrew",
+      "Contreras, Eric D.",
+      "Parness, Aaron"
+    ],
+    "year": 2020,
+    "title": "Design and testing of the JPL-Nautilus Gripper for deep-ocean geological sampling",
+    "venue": "Journal of Field Robotics",
+    "volume": "37",
+    "issue": "6",
+    "pages": "972-986",
+    "doi": "10.1002/rob.21934",
+    "url": "https://doi.org/10.1002/rob.21934",
+    "oa_url": null,
+    "type": "journal",
+    "category": "grippers",
+    "summary": "Presents the design and test results of the JPL-Nautilus Gripper, a 16-finger highly underactuated microspine gripper for the deep ocean that grasps objects and anchors to flat and curved rocky surfaces. Reports laboratory anchoring tests and deployment on the Hercules ROV during three deep-ocean dives.",
+    "key_numbers": [
+      {
+        "claim": "Gripper type",
+        "quote": "a 16‐finger highly underactuated microspine gripper for use in the deep ocean"
+      },
+      {
+        "claim": "Graspable object size",
+        "quote": "The gripper can grasp objects from 10 to 30 cm in size"
+      },
+      {
+        "claim": "Laboratory anchoring force",
+        "quote": "an anchoring capability of greater than 450 N on rough rocks in both shear and normal loading directions"
+      },
+      {
+        "claim": "Depth and load in field deployment (sic)",
+        "quote": "verified performance at depths up to to 2,100 m with approximately 100 N loads applied through the ROV's thrusters, including moment loads"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1002/rob.21934 (volume 37, issue 6, pages 972-986; online 2020-02-09, print September 2020); abstract from Crossref."
+  },
+  {
+    "key": "uckert2020",
+    "authors": [
+      "Uckert, Kyle",
+      "Parness, Aaron",
+      "Chanover, Nancy",
+      "Eshelman, Evan J.",
+      "Abcouwer, Neil",
+      "Nash, Jeremy",
+      "Detry, Renaud",
+      "Fuller, Christine",
+      "Voelz, David",
+      "Hull, Robert",
+      "Flannery, David",
+      "Bhartia, Rohit",
+      "Manatt, Kenneth S.",
+      "Abbey, William J.",
+      "Boston, Penelope"
+    ],
+    "year": 2020,
+    "title": "Investigating Habitability with an Integrated Rock-Climbing Robot and Astrobiology Instrument Suite",
+    "venue": "Astrobiology",
+    "volume": "20",
+    "issue": "12",
+    "pages": "1427-1449",
+    "doi": "10.1089/ast.2019.2177",
+    "url": "https://doi.org/10.1089/ast.2019.2177",
+    "oa_url": null,
+    "type": "journal",
+    "category": "space",
+    "summary": "Reports development and field deployment of the four-legged LEMUR 3 climbing robot with microspine grippers carrying three astrobiology instruments, a lidar and a colour camera. Field tests include system-level demonstrations of mock missions to the vertical exposures of Mars lava-tube caves and canyon walls.",
+    "key_numbers": [
+      {
+        "claim": "Number of field tests",
+        "quote": "Across >10 field tests, milestones were achieved in instrument operations, autonomous mobility in extreme terrain, and system integration"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1089/ast.2019.2177 (volume 20, issue 12, pages 1427-1449, December 2020); abstract from Crossref."
+  },
+  {
+    "key": "parness2013drop",
+    "authors": [
+      "Parness, Aaron",
+      "McKenzie, Clifford"
+    ],
+    "year": 2013,
+    "title": "DROP: the Durable Reconnaissance and Observation Platform",
+    "venue": "Industrial Robot: An International Journal",
+    "volume": "40",
+    "issue": "3",
+    "pages": "218-223",
+    "doi": "10.1108/01439911311309906",
+    "url": "https://doi.org/10.1108/01439911311309906",
+    "oa_url": null,
+    "type": "journal",
+    "category": "wheeled-other",
+    "summary": "Describes DROP, a two-wheel, two-motor prototype that extends microspine climbing from a linear to a rotary implementation, climbing rough vertical walls, making rapid horizontal-to-vertical transitions and surviving falls. The wheels were also fitted to a commercial platform to demonstrate curb mounting and stair climbing.",
+    "key_numbers": [
+      {
+        "claim": "Climbing speed on cinder block",
+        "quote": "climb vertical cinder block surfaces at a rate of 25 cm/s"
+      },
+      {
+        "claim": "Impact survival",
+        "quote": "survive impacts from 3 meters"
+      },
+      {
+        "claim": "Novelty claim",
+        "quote": "This robot is the first wheeled robot to use microspine technology."
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1108/01439911311309906 (volume 40, issue 3, pages 218-223, 26 April 2013); abstract from Crossref."
+  },
+  {
+    "key": "shirai2020",
+    "authors": [
+      "Shirai, Yuki",
+      "Lin, Xuan",
+      "Tanaka, Yusuke",
+      "Mehta, Ankur",
+      "Hong, Dennis"
+    ],
+    "year": 2020,
+    "title": "Risk-Aware Motion Planning for a Limbed Robot with Stochastic Gripping Forces Using Nonlinear Programming",
+    "venue": "IEEE Robotics and Automation Letters",
+    "volume": "5",
+    "issue": "4",
+    "pages": "4994-5001",
+    "doi": "10.1109/lra.2020.3001503",
+    "url": "https://doi.org/10.1109/lra.2020.3001503",
+    "oa_url": "https://arxiv.org/abs/2006.02656",
+    "type": "journal",
+    "category": "limbed-climbers",
+    "summary": "Presents a motion planner with probabilistic guarantees for limbed robots whose gripping forces are stochastic, formulated as a chance-constrained nonlinear programme that plans pose and contact-force trajectories under a chosen risk bound, with gripping forces modelled by Gaussian process regression. Validated on a six-limbed robot climbing between two walls; the full text states that the robot uses spine grippers.",
+    "key_numbers": [
+      {
+        "claim": "Validation platform",
+        "quote": "We validate our proposed motion planning algorithm on an 11.5 kg six-limbed robot for two-wall climbing."
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/lra.2020.3001503 (volume 5, issue 4, pages 4994-5001, October 2020); abstract from OpenAlex; arXiv full text https://arxiv.org/abs/2006.02656 read to confirm that the grippers are spine grippers."
+  },
+  {
+    "key": "nguyen2019",
+    "authors": [
+      "Nguyen, Hai-Nguyen",
+      "Siddall, Robert",
+      "Stephens, Brett",
+      "Navarro-Rubio, Alberto",
+      "Kovac, Mirko"
+    ],
+    "year": 2019,
+    "title": "A Passively Adaptive Microspine Grapple for Robust, Controllable Perching",
+    "venue": "2019 2nd IEEE International Conference on Soft Robotics (RoboSoft)",
+    "volume": null,
+    "issue": null,
+    "pages": "80-87",
+    "doi": "10.1109/robosoft.2019.8722779",
+    "url": "https://doi.org/10.1109/robosoft.2019.8722779",
+    "oa_url": "https://infoscience.epfl.ch/handle/20.500.14299/246604",
+    "type": "conference",
+    "category": "perching",
+    "summary": "Presents a passively adaptive perching mechanism for aerial vehicles: a compliant grapple module that conforms to convex targets such as tree branches and pipelines, passively tightens to grip and releases easily, paired with a hybrid force-motion controller and a winch that regulate cable tension and vehicle attitude.",
+    "key_numbers": [
+      {
+        "claim": "Load capacity in tension tests",
+        "quote": "a very high load capacity (tension tested to > 60 kg in some instances) whilst still releasing effortlessly"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/robosoft.2019.8722779 (pages 80-87, April 2019); abstract from OpenAlex, which also reports an open copy in EPFL Infoscience."
+  },
+  {
+    "key": "kirchgeorg2022",
+    "authors": [
+      "Kirchgeorg, Steffen",
+      "Mintchev, Stefano"
+    ],
+    "year": 2022,
+    "title": "HEDGEHOG: Drone Perching on Tree Branches With High-Friction Origami Spines",
+    "venue": "IEEE Robotics and Automation Letters",
+    "volume": "7",
+    "issue": "1",
+    "pages": "602-609",
+    "doi": "10.1109/lra.2021.3130378",
+    "url": "https://doi.org/10.1109/lra.2021.3130378",
+    "oa_url": "https://www.dora.lib4ri.ch/wsl/item/wsl:29130",
+    "type": "journal",
+    "category": "perching",
+    "summary": "Presents a perching mechanism that lets small drones rest on overhanging branches: origami spines with two folding flaps carrying high-friction material open and conform to irregular branch surfaces to generate enough friction to hold the drone. The perching strategy is modelled and demonstrated indoors and in a forest.",
+    "key_numbers": [
+      {
+        "claim": "Branch diameter and inclination range (abstract as indexed)",
+        "quote": "our drone can perch on tree branches with diameters up to 86 mm and inclined up to$\\pm$15$^\\circ$"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/lra.2021.3130378 (volume 7, issue 1, pages 602-609, January 2022); abstract from OpenAlex; accepted version in the DORA WSL repository."
+  },
+  {
+    "key": "mehanovic2017",
+    "authors": [
+      "Mehanovic, Dino",
+      "Bass, John",
+      "Courteau, Thomas",
+      "Rancourt, David",
+      "Lussier Desbiens, Alexis"
+    ],
+    "year": 2017,
+    "title": "Autonomous Thrust-Assisted Perching of a Fixed-Wing UAV on Vertical Surfaces",
+    "venue": "Biomimetic and Biohybrid Systems (Living Machines 2017), Lecture Notes in Computer Science, Springer",
+    "volume": null,
+    "issue": null,
+    "pages": "302-314",
+    "doi": "10.1007/978-3-319-63537-8_26",
+    "url": "https://doi.org/10.1007/978-3-319-63537-8_26",
+    "oa_url": null,
+    "type": "conference",
+    "category": "perching",
+    "summary": "Presents a fixed-wing drone that autonomously perches on and takes off from vertical surfaces, using a thrust-assisted pitch-up manoeuvre to slow down before touchdown, microspines to cling to rough walls and strictly onboard sensing. Analyses the effect of thrust on the suspension's landing envelope and proposes a vertical velocity controller.",
+    "key_numbers": [
+      {
+        "claim": "Novelty claim",
+        "quote": "We present the first fixed-wing drone that autonomously perches and takes off from vertical surfaces."
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1007/978-3-319-63537-8_26 (book chapter, pages 302-314, 2017); abstract from Springer's citation export (https://citation-needed.springer.com/v2/references/10.1007/978-3-319-63537-8_26?format=refman&flavour=citation). The LNCS volume number was not confirmed and is left null."
+  },
+  {
+    "key": "liu2020",
+    "authors": [
+      "Liu, Yanwei",
+      "Wang, Limeng",
+      "Niu, Fuzhou",
+      "Li, Pengyang",
+      "Li, Yan",
+      "Mei, Tao"
+    ],
+    "year": 2020,
+    "title": "A Track-type Inverted Climbing Robot with Bio-inspired Spiny Grippers",
+    "venue": "Journal of Bionic Engineering",
+    "volume": "17",
+    "issue": "5",
+    "pages": "920-931",
+    "doi": "10.1007/s42235-020-0093-5",
+    "url": "https://doi.org/10.1007/s42235-020-0093-5",
+    "oa_url": null,
+    "type": "journal",
+    "category": "wheeled-other",
+    "summary": "Presents SpinyCrawler, a track-type robot that climbs inverted surfaces using a spiny track of opposed-gripping spiny grippers inspired by caterpillar prolegs, with a model of the interaction between spines and ceiling asperities and a cam mechanism for attachment and detachment without extra actuators. Experiments show climbing on rough inverted and vertical surfaces.",
+    "key_numbers": [
+      {
+        "claim": "Surfaces climbed",
+        "quote": "stable climbing ability on various rough inverted and vertical surfaces, including concrete walls, crushed stone walls, sandpaper walls, brick walls, and brick ceilings"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1007/s42235-020-0093-5 (volume 17, issue 5, pages 920-931, September 2020); abstract from Springer's citation export (https://citation-needed.springer.com/v2/references/10.1007/s42235-020-0093-5?format=refman&flavour=citation)."
+  },
+  {
+    "key": "xu2020",
+    "authors": [
+      "Xu, Fengyu",
+      "Meng, Fanchang",
+      "Jiang, Quansheng",
+      "Peng, Gaoliang"
+    ],
+    "year": 2020,
+    "title": "Grappling claws for a robot to climb rough wall surfaces: Mechanical design, grasping algorithm, and experiments",
+    "venue": "Robotics and Autonomous Systems",
+    "volume": "128",
+    "issue": null,
+    "pages": "103501",
+    "doi": "10.1016/j.robot.2020.103501",
+    "url": "https://doi.org/10.1016/j.robot.2020.103501",
+    "oa_url": null,
+    "type": "journal",
+    "category": "grippers",
+    "summary": "Proposes an attachment method for robots on cliffs and dusty, vibrating rough walls using grappling-hook-like claws arranged in a cross shape, with simulated 3D wall profiles, conditions for stable grasping and a triangulation-based algorithm to judge which wall regions can be gripped. A prototype is tested on a vibrating wall and an outdoor wall.",
+    "key_numbers": [],
+    "verification": "Crossref record https://api.crossref.org/works/10.1016/j.robot.2020.103501 (volume 128, article 103501, June 2020); abstract from the Semantic Scholar API (https://api.semanticscholar.org/graph/v1/paper/DOI:10.1016/j.robot.2020.103501)."
+  },
+  {
+    "key": "zi2024",
+    "authors": [
+      "Zi, Peijin",
+      "Xu, Kun",
+      "Chen, Jiawei",
+      "Wang, Chang",
+      "Zhang, Tao",
+      "Luo, Yang",
+      "Tian, Yaobin",
+      "Wen, Li",
+      "Ding, Xilun"
+    ],
+    "year": 2024,
+    "title": "Intelligent Rock-Climbing Robot Capable of Multimodal Locomotion and Hybrid Bioinspired Attachment",
+    "venue": "Advanced Science",
+    "volume": "11",
+    "issue": "39",
+    "pages": "2309058",
+    "doi": "10.1002/advs.202309058",
+    "url": "https://doi.org/10.1002/advs.202309058",
+    "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11497113/",
+    "type": "journal",
+    "category": "limbed-climbers",
+    "summary": "Introduces MARCBot, a multimodal rock-climbing robot with spiny grippers inspired by beetles, arboreal birds and hoofed animals that serve for attachment when climbing and support when walking. A control strategy using dynamics and quadratic programming optimises the distribution of attachment wrenches.",
+    "key_numbers": [
+      {
+        "claim": "Cost-of-transport reduction from the control strategy",
+        "quote": "reducing cost‐of‐transport by 20.03% and 6.05% compared to closed‐loop inverse kinematic (CLIK) and virtual model control (VMC) methods, respectively"
+      },
+      {
+        "claim": "Climbing and trotting speeds (abstract as indexed)",
+        "quote": "MARCBot achieved climbing speeds of 0.15 m min −1 on a vertical discrete rock surface under gravity and trotting speeds of up to 0.21 m s −1 on various complex terrains."
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1002/advs.202309058 (volume 11, issue 39, article 2309058; online 2024-07-15, print October 2024; licence CC BY 4.0); abstract from Crossref; open copy in PubMed Central (PMC11497113)."
+  },
+  {
+    "key": "xu2022",
+    "authors": [
+      "Xu, Kun",
+      "Zi, Peijin",
+      "Ding, Xilun"
+    ],
+    "year": 2022,
+    "title": "Learning from biological attachment devices: applications of bioinspired reversible adhesive methods in robotics",
+    "venue": "Frontiers of Mechanical Engineering",
+    "volume": "17",
+    "issue": "3",
+    "pages": "43",
+    "doi": "10.1007/s11465-022-0699-x",
+    "url": "https://doi.org/10.1007/s11465-022-0699-x",
+    "oa_url": "https://doi.org/10.1007/s11465-022-0699-x",
+    "type": "journal",
+    "category": "review",
+    "summary": "Systematic review of reversible biological adhesive methods (dry adhesion, wet adhesion, mechanical adhesion and sub-ambient pressure adhesion) and the bioinspired attachment devices derived from them, covering organ morphology, attachment models, device design and fabrication, design principles, and an overview of climbing robots that use such devices.",
+    "key_numbers": [],
+    "verification": "Crossref record https://api.crossref.org/works/10.1007/s11465-022-0699-x (volume 17, issue 3, article 43; licence CC BY 4.0); abstract from Crossref."
+  },
+  {
+    "key": "iacoponi2020",
+    "authors": [
+      "Iacoponi, Saverio",
+      "Calisti, Marcello",
+      "Laschi, Cecilia"
+    ],
+    "year": 2020,
+    "title": "Simulation and Analysis of Microspines Interlocking Behavior on Rocky Surfaces: An In-Depth Study of the Isolated Spine",
+    "venue": "Journal of Mechanisms and Robotics",
+    "volume": "12",
+    "issue": "6",
+    "pages": "061016",
+    "doi": "10.1115/1.4047725",
+    "url": "https://doi.org/10.1115/1.4047725",
+    "oa_url": "https://figshare.com/articles/journal_contribution/Simulation_and_Analysis_of_Microspines_Interlocking_Behavior_on_Rocky_Surfaces_An_In-Depth_Study_of_the_Isolated_Spine/24392731",
+    "type": "journal",
+    "category": "modeling",
+    "summary": "Proposes a model for the anchoring resistance of a single microspine on a local asperity and applies it in a simulation campaign that relates spine performance to macroscopic variables of the spine, the substrate and its usage, followed by experimental comparison tests.",
+    "key_numbers": [],
+    "verification": "Crossref record https://api.crossref.org/works/10.1115/1.4047725 (volume 12, issue 6, article 061016; online 2020-07-28, print 2020-12-01); abstract from Crossref; OpenAlex reports an open copy on Figshare."
+  },
+  {
+    "key": "hu2021",
+    "authors": [
+      "Hu, Qiqiang",
+      "Dong, Erbao",
+      "Sun, Dong"
+    ],
+    "year": 2021,
+    "title": "Soft Gripper Design Based on the Integration of Flat Dry Adhesive, Soft Actuator, and Microspine",
+    "venue": "IEEE Transactions on Robotics",
+    "volume": "37",
+    "issue": "4",
+    "pages": "1065-1080",
+    "doi": "10.1109/tro.2020.3043981",
+    "url": "https://doi.org/10.1109/tro.2020.3043981",
+    "oa_url": null,
+    "type": "journal",
+    "category": "grippers",
+    "summary": "Reports a soft gripper that integrates a flat dry adhesive, a soft actuator and microspines to improve grasping on both smooth and rough surfaces, including a microspine-spring-shape-memory-alloy coil structure that retracts and protrudes the microspines and distributes load on rough surfaces.",
+    "key_numbers": [],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/tro.2020.3043981 (volume 37, issue 4, pages 1065-1080, August 2021); abstract from OpenAlex."
+  },
+  {
+    "key": "pattrick2018",
+    "authors": [
+      "Pattrick, Jonathan G.",
+      "Labonte, David",
+      "Federle, Walter"
+    ],
+    "year": 2018,
+    "title": "Scaling of claw sharpness: mechanical constraints reduce attachment performance in larger insects",
+    "venue": "Journal of Experimental Biology",
+    "volume": "221",
+    "issue": "24",
+    "pages": "jeb188391",
+    "doi": "10.1242/jeb.188391",
+    "url": "https://doi.org/10.1242/jeb.188391",
+    "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6811360/",
+    "type": "journal",
+    "category": "biology",
+    "summary": "Examines the conflict between claw sharpness and fracture resistance by measuring how claw sharpness scales with body size in four insect species and measuring attachment forces on rough surfaces with a centrifuge. Larger animals were more likely to slip and attached with smaller forces relative to body weight.",
+    "key_numbers": [
+      {
+        "claim": "Species studied",
+        "quote": "four insect species (Nauphoeta cinerea, Gromphadorhina portentosa, Atta cephalotes and Carausius morosus) each covering a large size range"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1242/jeb.188391 (article jeb188391, 2018; Crossref holds no volume/issue); volume and issue from PubMed (PMID 30352819: 'J Exp Biol. 2018 Dec 12;221(Pt 24):jeb188391'); abstract from Crossref and PubMed; open copy in PubMed Central (PMC6811360)."
+  },
+  {
+    "key": "song2016",
+    "authors": [
+      "Song, Yi",
+      "Dai, Zhendong",
+      "Wang, Zhouyi",
+      "Ji, Aihong",
+      "Gorb, Stanislav N."
+    ],
+    "year": 2016,
+    "title": "The synergy between the insect-inspired claws and adhesive pads increases the attachment ability on various rough surfaces",
+    "venue": "Scientific Reports",
+    "volume": "6",
+    "issue": "1",
+    "pages": "26219",
+    "doi": "10.1038/srep26219",
+    "url": "https://doi.org/10.1038/srep26219",
+    "oa_url": "https://doi.org/10.1038/srep26219",
+    "type": "journal",
+    "category": "biology",
+    "summary": "Tests an artificial attachment device that mimics insect claws and adhesive pads on stiff spheres of different sizes. Claw forces fall as sphere radius grows but can be very strong when the radius is smaller than or comparable to the claw radius, pads work on larger spheres, and the two together give stronger attachment than either alone.",
+    "key_numbers": [
+      {
+        "claim": "Claw self-locking condition (qualitative)",
+        "quote": "The forces may become very strong, when the sphere radius is smaller or comparable to the claw radius, because of the frictional self-lock."
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1038/srep26219 (volume 6, issue 1, article 26219, 20 May 2016; licence CC BY 4.0); abstract from Crossref."
+  },
+  {
+    "key": "labonte2015",
+    "authors": [
+      "Labonte, David",
+      "Federle, Walter"
+    ],
+    "year": 2015,
+    "title": "Scaling and biomechanics of surface attachment in climbing animals",
+    "venue": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+    "volume": "370",
+    "issue": "1661",
+    "pages": "20140027",
+    "doi": "10.1098/rstb.2014.0027",
+    "url": "https://doi.org/10.1098/rstb.2014.0027",
+    "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4275900/",
+    "type": "journal",
+    "category": "biology",
+    "summary": "Discusses how contact geometry and mode of detachment influence the scaling of attachment forces with body size for claws and adhesive pads, and what allometric data reveal about attachment mechanisms. Suggests that switching between stress concentration and uniform load distribution via shear forces is a key mechanism for controlling adhesion during locomotion.",
+    "key_numbers": [],
+    "verification": "Crossref record https://api.crossref.org/works/10.1098/rstb.2014.0027 (volume 370, issue 1661, article 20140027, 5 February 2015); abstract from Crossref; OpenAlex reports hybrid open access (CC BY) and a copy in PubMed Central (PMC4275900)."
+  },
+  {
+    "key": "akers2026",
+    "authors": [
+      "Akers, Michael",
+      "Michaud, Megan",
+      "Bazzocchi, Michael C.F."
+    ],
+    "year": 2026,
+    "title": "Review, Design, and Comparative Analysis of Microspine Gripper Technologies for Asteroid Attachment",
+    "venue": "2026 IEEE Aerospace Conference",
+    "volume": null,
+    "issue": null,
+    "pages": "1-9",
+    "doi": "10.1109/aero66936.2026.11520149",
+    "url": "https://doi.org/10.1109/aero66936.2026.11520149",
+    "oa_url": null,
+    "type": "conference",
+    "category": "review",
+    "summary": "Reviews microspine gripper technology for attaching a lander to an asteroid, noting that most current designs fail under substantial compressive and torsional loads, and compares six alternative designs against six criteria with a multi-criteria decision process. The selected concept is a multi-phalanx configuration with radially symmetric leg sets.",
+    "key_numbers": [
+      {
+        "claim": "Scope of the comparison",
+        "quote": "A total of six alternative designs were compared using six key criteria for successful asteroid exploration missions."
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/aero66936.2026.11520149 (pages 1-9, March 2026); abstract from OpenAlex."
+  },
+  {
+    "key": "uno2026",
+    "authors": [
+      "Uno, Kentaro",
+      "Imai, Masazumi",
+      "Takada, Kazuki",
+      "Kataonami, Teruhiro",
+      "Matsuura, Yudai",
+      "Ringeval-Meusnier, Antonin",
+      "Nagaoka, Keita",
+      "Eguchi, Mikio",
+      "Nishibe, Ryo",
+      "Yoshida, Kazuya"
+    ],
+    "year": 2026,
+    "title": "LIMBERO: A Limbed Climbing Exploration Robot Toward Traveling on Rocky Cliffs",
+    "venue": "2026 IEEE International Conference on Robotics and Automation (ICRA)",
+    "volume": null,
+    "issue": null,
+    "pages": "21412-21419",
+    "doi": "10.1109/icra57385.2026.11696606",
+    "url": "https://doi.org/10.1109/icra57385.2026.11696606",
+    "oa_url": "https://arxiv.org/abs/2603.16531",
+    "type": "conference",
+    "category": "limbed-climbers",
+    "summary": "Presents LIMBERO, a quadrupedal climbing robot with spine-type grippers, including a gripper with coupled finger-closing and spine-hooking motions driven by one motor and an algorithm to visualise a geometry-based graspability index on rough terrain. The integrated robot is shown ascending steep rocky surfaces under Earth gravity.",
+    "key_numbers": [
+      {
+        "claim": "Robot mass class",
+        "quote": "a 10 kg-class quadrupedal climbing robot that employs spine-type grippers"
+      },
+      {
+        "claim": "Gripper grasping force and mass",
+        "quote": "achieves exceptional grasping performance (>150 N) despite its lightweight design (525 g)"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/icra57385.2026.11696606 (pages 21412-21419, June 2026); abstract from OpenAlex; arXiv version https://arxiv.org/abs/2603.16531."
+  },
+  {
+    "key": "ervin2025",
+    "authors": [
+      "Ervin, Lauren",
+      "Bezawada, Harish",
+      "Vikas, Vishesh"
+    ],
+    "year": 2025,
+    "title": "Improving Grip Stability Using Passive Compliant Microspine Arrays for Soft Robots in Unstructured Terrain",
+    "venue": "2025 IEEE International Conference on Robotics and Automation (ICRA)",
+    "volume": null,
+    "issue": null,
+    "pages": "7872-7878",
+    "doi": "10.1109/icra55743.2025.11128855",
+    "url": "https://doi.org/10.1109/icra55743.2025.11128855",
+    "oa_url": "https://arxiv.org/abs/2502.12347",
+    "type": "conference",
+    "category": "wheeled-other",
+    "summary": "Proposes a passive, compliant, stacked two-row microspine array and an integration method that addresses the stiffness mismatch between soft and rigid components, for mobile soft robots. Field experiments on concrete, brick, compact sand and tree roots compare robot configurations with and without the arrays.",
+    "key_numbers": [
+      {
+        "claim": "Effect on displacement",
+        "quote": "the inclusion of microspine arrays increases planar displacement an average of 10 times"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/icra55743.2025.11128855 (pages 7872-7878, May 2025); abstract from OpenAlex; arXiv version https://arxiv.org/abs/2502.12347."
+  },
+  {
+    "key": "panorel2025",
+    "authors": [
+      "Panorel, Peter A.",
+      "Nagaoka, Kenji"
+    ],
+    "year": 2025,
+    "title": "Development of a self-locking spine gripper for power-efficient robotic climbing in extreme terrain",
+    "venue": "Advanced Robotics",
+    "volume": "39",
+    "issue": "21",
+    "pages": "1329-1345",
+    "doi": "10.1080/01691864.2025.2571561",
+    "url": "https://doi.org/10.1080/01691864.2025.2571561",
+    "oa_url": null,
+    "type": "journal",
+    "category": "grippers",
+    "summary": "Develops a Self-Locking Spine Gripper, a variant of an active spine gripper that maintains its gripping force without active actuation, to reduce the energy demand of climbing robots.",
+    "key_numbers": [
+      {
+        "claim": "Unpowered holding capability",
+        "quote": "a single gripper was able to support the weight of a 3.65 kg robot while the actuator was inactive"
+      },
+      {
+        "claim": "Calculated energy saving",
+        "quote": "it can save over 4000 Wh of energy per day compared to a fully active spine gripper"
+      }
+    ],
+    "verification": "Crossref record https://api.crossref.org/works/10.1080/01691864.2025.2571561 (volume 39, issue 21, pages 1329-1345, November 2025); abstract from OpenAlex."
+  },
+  {
+    "key": "palmer2015",
+    "authors": [
+      "Palmer, Luther R., III",
+      "Diller, Eric",
+      "Quinn, Roger D."
+    ],
+    "year": 2015,
+    "title": "Toward Gravity-Independent Climbing Using a Biologically Inspired Distributed Inward Gripping Strategy",
+    "venue": "IEEE/ASME Transactions on Mechatronics",
+    "volume": "20",
+    "issue": "2",
+    "pages": "631-640",
+    "doi": "10.1109/tmech.2014.2315762",
+    "url": "https://doi.org/10.1109/tmech.2014.2315762",
+    "oa_url": null,
+    "type": "journal",
+    "category": "limbed-climbers",
+    "summary": "Presents distributed inward gripping (DIG), in which contralateral legs engage cockroach-inspired prehensile spines by pulling inward toward the body rather than downward against gravity, as a foot-attachment strategy for gravity-independent climbing. The test robot DIGbot climbs and turns on vertical and inverted mesh screen, with each foot searching locally for a foothold.",
+    "key_numbers": [],
+    "verification": "Crossref record https://api.crossref.org/works/10.1109/tmech.2014.2315762 (volume 20, issue 2, pages 631-640, April 2015; first author deposited as 'Palmer III, Luther R.'); abstract from OpenAlex."
+  },
+  {
+    "key": "mahendra1941",
+    "authors": [
+      "Mahendra, Beni Charan"
+    ],
+    "year": 1941,
+    "title": "Contributions to the bionomics, anatomy, reproduction and development of the Indian house-gecko, Hemidactylus flaviviridis Rüppel. Part II. The problem of locomotion",
+    "venue": "Proceedings of the Indian Academy of Sciences, Section B",
+    "volume": "13",
+    "issue": "5",
+    "pages": "288-306",
+    "doi": "10.1007/bf03048487",
+    "url": "https://doi.org/10.1007/bf03048487",
+    "oa_url": null,
+    "type": "journal",
+    "category": "biology",
+    "summary": "Classic study of how the house gecko moves on different surfaces. Cited in the microspine literature for the observation that geckos rely on their claws, not only their adhesive pads, on very rough surfaces. Not summarised from an abstract.",
+    "key_numbers": [],
+    "verification": "Crossref"
+  },
+  {
+    "key": "darpa-zman",
+    "label": "DARPA Z-Man",
+    "citation": "Defense Advanced Research Projects Agency, *Z-Man* programme page.",
+    "url": "https://www.darpa.mil/research/programs/z-man",
+    "type": "web",
+    "category": "web",
+    "summary": "The agency's public description of the programme: biologically inspired climbing aids for scaling walls of typical building materials without ropes or ladders."
+  },
+  {
+    "key": "darpa2014",
+    "label": "DARPA 2014",
+    "citation": "*DARPA Z-Man Program Demonstrates Human Climbing Like Geckos*, news release, 5 June 2014.",
+    "url": "https://www.darpa.mil/news/2014/z-man-program-demonstration",
+    "type": "web",
+    "category": "web",
+    "summary": "Announces a human climbing a glass wall with hand-held gecko-inspired paddles developed for DARPA by Draper Laboratory."
+  },
+  {
+    "key": "bdml-outside-testing",
+    "label": "Asbeck 2007",
+    "citation": "Alan Asbeck, *ZManOutsideTesting*, BDML wiki page, 2 October 2007.",
+    "url": "https://bdml.stanford.edu/twiki/bin/view/Zman/ZManOutsideTesting.html",
+    "type": "web",
+    "category": "web",
+    "summary": "Short report of the first outdoor test in which people hung from a wall on spine patches."
+  },
+  {
+    "key": "bdml-media",
+    "label": "BDML media list",
+    "citation": "Stanford Biomimetics and Dexterous Manipulation Laboratory, *Videos and media*.",
+    "url": "https://bdml.stanford.edu/twiki/bin/view/Rise/VideosAndMedia.html",
+    "type": "web",
+    "category": "web",
+    "summary": "Lists the laboratory's press and television appearances, including the 19 March 2009 episode of *Prototype This!*."
+  },
+  {
+    "key": "patent-us8066088",
+    "label": "Asbeck et al. 2011 (patent)",
+    "citation": "Alan T. Asbeck, Sangbae Kim and Mark R. Cutkosky, *Biologically inspired climbing device*, US Patent 8,066,088 B2, filed 9 December 2005, granted 29 November 2011.",
+    "url": "https://patents.google.com/patent/US8066088B2/en",
+    "type": "web",
+    "category": "web",
+    "summary": "Patent on the compliant microspine toe and foot. Check its status before any commercial use."
+  },
+  {
+    "key": "smoothon-task9",
+    "label": "Smooth-On TASK 9",
+    "citation": "Smooth-On, *TASK 9* technical bulletin.",
+    "url": "https://www.smooth-on.com/tb/files/TASK_9_TB.pdf",
+    "type": "web",
+    "category": "web",
+    "summary": "Manufacturer's properties for the rigid urethane used for the hard parts of the RiSE and Z-Man toes. Formulations change; values quoted in this wiki are those of the bulletin as read in November 2026."
+  },
+  {
+    "key": "smoothon-vytaflex",
+    "label": "Smooth-On VytaFlex",
+    "citation": "Smooth-On, *VytaFlex Series* technical bulletin.",
+    "url": "https://www.smooth-on.com/tb/files/Vytaflex_Series_TB.pdf",
+    "type": "web",
+    "category": "web",
+    "summary": "Manufacturer's properties for the urethane rubbers used for the flexures of the RiSE (VytaFlex 30) and Z-Man (VytaFlex 60) toes."
+  },
+  {
+    "key": "tmc900bl",
+    "label": "TMC 900BL hook",
+    "citation": "Umpqua Feather Merchants, product description of the Tiemco TMC 900BL dry-fly hook.",
+    "url": "https://www.umpqua.com/tmc900bl/",
+    "type": "web",
+    "category": "web",
+    "summary": "Barbless, forged, black, 1X fine wire, sizes 10 to 16."
+  },
+  {
+    "key": "prototype-this",
+    "label": "Prototype This! 2009",
+    "citation": "*Prototype This!*, season 1, episode 12, Discovery Channel, first aired 19 March 2009. Listed as \"Gecko Superhero Suit\" or \"Gecko Suit\".",
+    "url": "https://en.wikipedia.org/wiki/Prototype_This!",
+    "type": "web",
+    "category": "web",
+    "summary": "Television episode in which a team builds two devices for a person to climb a smooth and a rough vertical surface."
+  }
+]

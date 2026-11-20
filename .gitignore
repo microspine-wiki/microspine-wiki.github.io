@@ -1,0 +1,17 @@
+# Build output
+/_site/
+/_preview/
+
+# Local drafts that are not cleared for release. Never commit this folder.
+/pending/
+
+# Tooling
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+
+# Editors and operating systems
+.DS_Store
+.obsidian/
+*.swp
