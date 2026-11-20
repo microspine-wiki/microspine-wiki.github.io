@@ -9,9 +9,9 @@ export default {
 
   // Set these once the repository exists; "Edit this page" links and the
   // canonical URLs stay hidden while they are empty.
-  repository: 'https://github.com/SXuanAlan/microspine-wiki',
+  repository: 'https://github.com/microspine-wiki/microspine-wiki.github.io',
   branch: 'main',
-  siteUrl: 'https://alanszhao.com/microspine-wiki/',
+  siteUrl: 'https://microspine-wiki.github.io/',
 
   license: {
     text: 'CC BY 4.0',

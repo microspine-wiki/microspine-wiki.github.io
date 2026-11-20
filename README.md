@@ -2,6 +2,8 @@
 
 An open, community-maintained handbook on microspines and spine-based climbing: how small steel hooks on compliant suspensions hold on rough surfaces, how to design, build and test spine arrays, and what the robots, aircraft and human-scale devices that used them have taught.
 
+**Read it at <https://microspine-wiki.github.io/>.**
+
 The wiki is plain Markdown in [`wiki/`](wiki/README.md). It reads as it is on GitHub and in Obsidian, and a small generator with no dependencies turns it into a static website with search, figures, typeset math and two interactive models.
 
 ## Build and preview
